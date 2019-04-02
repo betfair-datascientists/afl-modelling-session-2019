@@ -1,0 +1,1061 @@
+odds,Date,home_team,away_team,Game,Round,Goals,Behinds,Points,Margin,Venue,Opposition,Opposition Goals,Opposition Behinds,Opposition Points,odds_away,Goals_away,Behinds_away,Margin_away
+1.3173,24/03/2011,Carlton,Richmond,13764,1,14,20,104,20,M.C.G.,Richmond,13,6,84,4.1394,13,6,-20
+2.3681,25/03/2011,Geelong,St Kilda,13765,1,6,12,48,1,M.C.G.,St Kilda,6,11,47,1.726,6,11,-1
+1.9252,26/03/2011,Adelaide,Hawthorn,13767,1,16,9,105,20,Football Park,Hawthorn,12,13,85,2.0542,12,13,-20
+2.0039,26/03/2011,Brisbane,Fremantle,13768,1,14,8,92,-2,Gabba,Fremantle,13,16,94,1.9856,13,16,2
+1.0827,26/03/2011,Collingwood,Port Adelaide,13766,1,24,11,155,75,Docklands,Port Adelaide,12,8,80,12.8365,12,8,-75
+2.5242,27/03/2011,Essendon,Western Bulldogs,13769,1,16,17,113,55,Docklands,Western Bulldogs,8,10,58,1.6461,8,10,-55
+1.969,27/03/2011,Melbourne,Sydney,13770,1,11,18,84,0,M.C.G.,Sydney,11,18,84,2.032,11,18,0
+1.6391,27/03/2011,West Coast,North Melbourne,13771,1,13,14,92,4,Subiaco,North Melbourne,13,10,88,2.5203,13,10,-4
+16.6383,15/04/2011,Richmond,Collingwood,13788,4,13,12,90,-71,M.C.G.,Collingwood,24,17,161,1.0603,24,17,71
+2.0386,16/04/2011,Carlton,Essendon,13789,4,11,13,79,0,M.C.G.,Essendon,11,13,79,1.9478,11,13,0
+1.148,16/04/2011,Hawthorn,West Coast,13790,4,10,12,72,7,York Park,West Coast,9,11,65,7.6455,9,11,-7
+2.9348,16/04/2011,Port Adelaide,Adelaide,13792,4,14,14,98,32,Football Park,Adelaide,9,12,66,1.5116,9,12,-32
+2.257,16/04/2011,Sydney,Geelong,13791,4,7,12,54,-27,S.C.G.,Geelong,11,15,81,1.7836,11,15,27
+1.2417,17/04/2011,Fremantle,North Melbourne,13794,4,18,19,127,29,Subiaco,North Melbourne,14,14,98,5.0681,14,14,-29
+12.7945,17/04/2011,Gold Coast,Melbourne,13793,4,9,15,69,-90,Gabba,Melbourne,23,21,159,1.0805,23,21,90
+4.3258,21/04/2011,Brisbane,St Kilda,13795,5,11,10,76,-13,Gabba,St Kilda,13,11,89,1.2933,13,11,13
+1.3125,23/04/2011,Carlton,Adelaide,13797,5,11,19,85,6,Docklands,Adelaide,12,7,79,4.164,12,7,-6
+1.0559,23/04/2011,Port Adelaide,Gold Coast,13796,5,15,11,101,-3,Football Park,Gold Coast,15,14,104,17.8944,15,14,3
+1.9134,24/04/2011,North Melbourne,Richmond,13798,5,14,19,103,-9,Docklands,Richmond,17,10,112,2.0768,17,10,9
+5.1585,25/04/2011,Essendon,Collingwood,13799,5,11,11,77,-30,M.C.G.,Collingwood,16,11,107,1.2384,16,11,30
+1.7609,25/04/2011,Fremantle,Western Bulldogs,13800,5,12,13,85,7,Subiaco,Western Bulldogs,11,12,78,2.2859,11,12,-7
+2.1561,26/04/2011,Hawthorn,Geelong,13801,5,15,8,98,-19,M.C.G.,Geelong,17,15,117,1.8546,17,15,19
+1.5614,28/04/2011,West Coast,Melbourne,13802,6,15,16,106,54,Subiaco,Melbourne,6,16,52,2.7506,6,16,-54
+1.7071,29/04/2011,Sydney,Carlton,13803,6,10,11,71,-16,S.C.G.,Carlton,12,15,87,2.4022,12,15,16
+1.9064,30/04/2011,Adelaide,St Kilda,13806,6,13,12,90,19,Football Park,St Kilda,9,17,71,2.0849,9,17,-19
+1.4728,30/04/2011,North Melbourne,Port Adelaide,13804,6,18,25,133,60,Docklands,Port Adelaide,10,13,73,3.0741,10,13,-60
+1.4443,30/04/2011,Richmond,Brisbane,13805,6,18,16,124,26,M.C.G.,Brisbane,14,14,98,3.1776,14,14,-26
+2.8782,13/05/2011,Geelong,Collingwood,13817,8,8,17,65,3,M.C.G.,Collingwood,9,8,62,1.5292,9,8,-3
+1.1661,14/05/2011,Adelaide,Gold Coast,13819,8,20,10,130,57,Football Park,Gold Coast,9,19,73,6.8904,9,19,-57
+4.8459,14/05/2011,Brisbane,Essendon,13820,8,9,12,66,-36,Gabba,Essendon,15,12,102,1.2546,15,12,36
+1.8352,14/05/2011,North Melbourne,Melbourne,13818,8,19,10,124,41,Docklands,Melbourne,12,11,83,2.1866,12,11,-41
+1.1311,14/05/2011,Sydney,Port Adelaide,13821,8,18,13,121,62,S.C.G.,Port Adelaide,9,5,59,8.7056,9,5,-62
+1.485,15/05/2011,Hawthorn,St Kilda,13822,8,14,15,99,30,M.C.G.,St Kilda,10,9,69,2.998,10,9,-30
+2.082,15/05/2011,West Coast,Fremantle,13824,8,14,12,96,33,Subiaco,Fremantle,9,9,63,1.8982,9,9,-33
+1.7206,15/05/2011,Western Bulldogs,Richmond,13823,8,23,15,153,35,Docklands,Richmond,18,10,118,2.3739,18,10,-35
+3.1865,20/05/2011,Carlton,Geelong,13825,9,14,16,100,-2,Docklands,Geelong,15,12,102,1.4513,15,12,2
+1.9547,21/05/2011,Brisbane,North Melbourne,13829,9,10,13,73,14,Gabba,North Melbourne,8,11,59,2.0359,8,11,-14
+2.6035,21/05/2011,Port Adelaide,Fremantle,13827,9,14,6,90,-52,Football Park,Fremantle,21,16,142,1.614,21,16,52
+2.9279,21/05/2011,Richmond,Essendon,13828,9,16,9,105,16,M.C.G.,Essendon,13,11,89,1.5178,13,11,-16
+1.4079,21/05/2011,St Kilda,Melbourne,13826,9,16,10,106,20,Docklands,Melbourne,13,8,86,3.4485,13,8,-20
+1.0717,22/05/2011,Collingwood,Adelaide,13830,9,20,15,135,43,Docklands,Adelaide,14,8,92,13.8527,14,8,-43
+1.7963,22/05/2011,Sydney,Hawthorn,13831,9,8,12,60,-46,S.C.G.,Hawthorn,15,16,106,2.231,15,16,46
+1.7061,22/05/2011,West Coast,Western Bulldogs,13832,9,26,19,175,123,Subiaco,Western Bulldogs,8,4,52,2.39,8,4,-123
+7.557,27/05/2011,Melbourne,Carlton,13833,10,6,10,46,-47,M.C.G.,Carlton,13,15,93,1.1459,13,15,47
+1.638,28/05/2011,Fremantle,St Kilda,13835,10,7,14,56,-46,Subiaco,St Kilda,15,12,102,2.5764,15,12,46
+23.1761,28/05/2011,Gold Coast,Geelong,13836,10,10,13,73,-66,Carrara,Geelong,21,13,139,1.0439,21,13,66
+2.0459,28/05/2011,North Melbourne,Sydney,13834,10,9,17,71,-1,Docklands,Sydney,10,12,72,1.9367,10,12,1
+1.2998,28/05/2011,Richmond,Port Adelaide,13837,10,10,14,74,-15,Marrara Oval,Port Adelaide,13,11,89,4.258,13,11,15
+1.307,29/05/2011,Adelaide,Brisbane,13838,10,8,13,61,-40,Football Park,Brisbane,15,11,101,4.256,15,11,40
+1.2874,29/05/2011,Collingwood,West Coast,13839,10,16,9,105,52,M.C.G.,West Coast,7,11,53,4.4756,7,11,-52
+3.7855,29/05/2011,Western Bulldogs,Hawthorn,13840,10,9,8,62,-29,Docklands,Hawthorn,13,13,91,1.3524,13,13,29
+5.0156,5/06/2011,Port Adelaide,Carlton,13809,7,10,12,72,-32,Football Park,Hawthorn,15,14,104,1.2202,15,14,32
+5.3009,13/06/2011,Melbourne,Collingwood,13856,12,6,5,41,-88,M.C.G.,Collingwood,19,15,129,1.2261,19,15,88
+1.3389,17/06/2011,Western Bulldogs,Adelaide,13857,13,14,16,100,30,Docklands,Adelaide,10,10,70,3.8902,10,10,-30
+2.2814,18/06/2011,Brisbane,Richmond,13861,13,14,10,94,-31,Gabba,Richmond,18,17,125,1.7599,18,17,31
+1.766,18/06/2011,Essendon,North Melbourne,13858,13,12,18,90,-21,Docklands,North Melbourne,17,9,111,2.2874,17,9,21
+1.0353,18/06/2011,Hawthorn,Gold Coast,13859,13,19,15,129,71,York Park,Gold Coast,8,10,58,29.5456,8,10,-71
+3.8055,18/06/2011,St Kilda,Geelong,13860,13,11,6,72,-28,M.C.G.,Geelong,15,10,100,1.3523,15,10,28
+1.3114,19/06/2011,Carlton,Sydney,13863,13,15,10,100,34,Docklands,Sydney,10,6,66,4.2028,10,6,-34
+1.71,19/06/2011,Melbourne,Fremantle,13862,13,22,17,149,89,M.C.G.,Fremantle,8,12,60,2.4039,8,12,-89
+1.1087,19/06/2011,West Coast,Port Adelaide,13864,13,15,20,110,22,Subiaco,Port Adelaide,13,10,88,9.9836,13,10,-22
+1.7155,24/06/2011,Hawthorn,Essendon,13865,14,23,8,146,65,M.C.G.,Essendon,12,9,81,2.3848,12,9,-65
+1.1937,25/06/2011,Fremantle,Brisbane,13869,14,12,16,88,23,Subiaco,Brisbane,10,5,65,6.0666,10,5,-23
+6.4787,25/06/2011,Gold Coast,Western Bulldogs,13866,14,13,10,88,-22,Carrara,Western Bulldogs,17,8,110,1.1781,17,8,22
+2.1986,25/06/2011,Richmond,Melbourne,13867,14,13,13,91,-27,M.C.G.,Melbourne,17,16,118,1.8126,17,16,27
+7.6815,25/06/2011,Sydney,Collingwood,13868,14,14,9,93,-6,Stadium Australia,Collingwood,13,21,99,1.1509,13,21,6
+1.2561,26/06/2011,Carlton,West Coast,13871,14,10,7,67,-36,Docklands,West Coast,15,13,103,4.826,15,13,36
+1.091,26/06/2011,Geelong,Adelaide,13870,14,19,11,125,52,Kardinia Park,Adelaide,10,13,73,11.5688,10,13,-52
+3.0037,26/06/2011,Port Adelaide,North Melbourne,13872,14,14,7,91,-45,Football Park,North Melbourne,21,10,136,1.4924,21,10,45
+2.1629,15/07/2011,Adelaide,Essendon,13888,17,10,13,73,-11,Football Park,Essendon,12,12,84,1.8548,12,12,11
+5.5441,16/07/2011,Carlton,Collingwood,13889,17,11,13,79,-19,M.C.G.,Collingwood,13,20,98,1.2126,13,20,19
+1.3289,16/07/2011,Melbourne,Port Adelaide,13892,17,17,11,113,21,Marrara Oval,Port Adelaide,14,8,92,4.0461,14,8,-21
+1.2035,16/07/2011,Richmond,Gold Coast,13890,17,9,16,70,-15,Cazaly's Stadium,Gold Coast,12,13,85,5.9162,12,13,15
+1.8994,16/07/2011,St Kilda,West Coast,13891,17,13,4,82,21,Docklands,West Coast,9,7,61,2.1024,9,7,-21
+9.3847,17/07/2011,Brisbane,Geelong,13894,17,15,14,104,-29,Gabba,Geelong,20,13,133,1.1204,20,13,29
+3.4087,17/07/2011,North Melbourne,Western Bulldogs,13895,17,21,16,142,31,Docklands,Western Bulldogs,17,9,111,1.4071,17,9,-31
+1.3783,17/07/2011,Sydney,Fremantle,13893,17,13,9,87,-11,S.C.G.,Fremantle,15,8,98,3.6148,15,8,11
+1.1815,22/07/2011,St Kilda,Adelaide,13896,18,19,13,127,103,Docklands,Adelaide,3,6,24,6.3268,3,6,-103
+3.3876,23/07/2011,Essendon,Carlton,13899,18,12,7,79,-74,M.C.G.,Carlton,24,9,153,1.4166,24,9,74
+26.5051,23/07/2011,Gold Coast,Collingwood,13900,18,11,9,75,-54,Carrara,Collingwood,19,15,129,1.0344,19,15,54
+1.1626,23/07/2011,North Melbourne,Brisbane,13898,18,17,20,122,45,Docklands,Brisbane,11,11,77,6.9232,11,11,-45
+1.5856,23/07/2011,Sydney,Western Bulldogs,13897,18,16,18,114,39,S.C.G.,Western Bulldogs,11,9,75,2.6938,11,9,-39
+2.9875,24/07/2011,Fremantle,West Coast,13903,18,9,10,64,-1,Subiaco,West Coast,8,17,65,1.4981,8,17,1
+1.0814,24/07/2011,Geelong,Richmond,13901,18,17,11,113,62,Docklands,Richmond,7,9,51,13.2308,7,9,-62
+4.8666,24/07/2011,Melbourne,Hawthorn,13902,18,12,6,78,-54,M.C.G.,Hawthorn,20,12,132,1.2553,20,12,54
+3.9422,29/07/2011,North Melbourne,Carlton,13904,19,9,8,62,-18,Docklands,Carlton,11,14,80,1.3358,11,14,18
+2.6047,30/07/2011,Fremantle,Hawthorn,13908,19,6,8,44,-51,Subiaco,Hawthorn,13,17,95,1.6158,13,17,51
+1.0794,30/07/2011,Geelong,Melbourne,13906,19,37,11,233,186,Kardinia Park,Melbourne,7,5,47,13.2084,7,5,-186
+160,30/07/2011,Gold Coast,St Kilda,13907,19,6,18,54,-20,Carrara,St Kilda,10,14,74,1.0221,10,14,20
+2.5258,30/07/2011,Western Bulldogs,West Coast,13905,19,15,5,95,-8,Docklands,West Coast,15,13,103,1.6479,15,13,8
+1.6378,31/07/2011,Adelaide,Port Adelaide,13910,19,16,15,111,32,Football Park,Port Adelaide,11,13,79,2.5487,11,13,-32
+1.0737,31/07/2011,Collingwood,Essendon,13909,19,25,16,166,74,M.C.G.,Essendon,14,8,92,13.88,14,8,-74
+1.4002,13/08/2011,Brisbane,Gold Coast,13923,21,18,15,123,62,Gabba,Gold Coast,8,13,61,3.4534,8,13,-62
+3.0652,13/08/2011,Fremantle,Carlton,13921,21,12,13,85,-30,Subiaco,Carlton,16,19,115,1.475,16,19,30
+1.0301,13/08/2011,Hawthorn,Port Adelaide,13920,21,31,11,197,165,M.C.G.,Port Adelaide,5,2,32,33.0875,5,2,-165
+2.4928,13/08/2011,Western Bulldogs,Essendon,13922,21,15,11,101,-49,Docklands,Essendon,23,12,150,1.6637,23,12,49
+12.509,14/08/2011,Adelaide,Geelong,13926,21,12,13,85,-11,Football Park,Geelong,14,12,96,1.0774,14,12,11
+5.6215,14/08/2011,Melbourne,West Coast,13924,21,9,8,62,-48,Docklands,West Coast,16,14,110,1.2072,16,14,48
+4.0312,14/08/2011,Richmond,Sydney,13925,21,14,15,99,43,M.C.G.,Sydney,7,14,56,1.3248,7,14,-43
+2.6876,19/08/2011,Carlton,Hawthorn,13927,22,8,18,66,-12,Docklands,Hawthorn,10,18,78,1.584,10,18,12
+1.0298,20/08/2011,Collingwood,Brisbane,13930,22,14,18,102,18,M.C.G.,Brisbane,13,6,84,31.005,13,6,-18
+5.5321,20/08/2011,Gold Coast,Adelaide,13928,22,9,10,64,-61,Carrara,Adelaide,18,17,125,1.2155,18,17,61
+1.3921,20/08/2011,North Melbourne,Fremantle,13931,22,21,17,143,98,Docklands,Fremantle,6,9,45,3.5094,6,9,-98
+1.2259,20/08/2011,West Coast,Essendon,13929,22,20,14,134,57,Subiaco,Essendon,11,11,77,5.3372,11,11,-57
+2.254,21/08/2011,Melbourne,Richmond,13934,22,17,8,110,-7,M.C.G.,Richmond,17,15,117,1.7807,17,15,7
+4.8206,21/08/2011,Port Adelaide,Western Bulldogs,13933,22,15,7,97,-60,Football Park,Western Bulldogs,24,13,157,1.2566,24,13,60
+2.4928,21/08/2011,Sydney,St Kilda,13932,22,10,23,83,15,Stadium Australia,St Kilda,10,8,68,1.668,10,8,-15
+24.3858,26/08/2011,Fremantle,Collingwood,13935,23,8,4,52,-80,Subiaco,Collingwood,20,12,132,1.0401,20,12,80
+4.2149,27/08/2011,Brisbane,West Coast,13939,23,11,15,81,-8,Gabba,West Coast,13,11,89,1.299,13,11,8
+1.0795,27/08/2011,Geelong,Sydney,13937,23,12,14,86,-13,Kardinia Park,Sydney,15,9,99,12.6741,15,9,13
+1.1198,27/08/2011,Hawthorn,Western Bulldogs,13936,23,16,17,113,46,M.C.G.,Western Bulldogs,10,7,67,9.1836,10,7,-46
+1.8072,27/08/2011,St Kilda,North Melbourne,13938,23,19,21,135,65,Docklands,North Melbourne,10,10,70,2.2031,10,10,-65
+1.3878,28/08/2011,Adelaide,Richmond,13940,23,15,9,99,-22,Football Park,Richmond,17,19,121,3.5317,17,19,22
+1.053,28/08/2011,Essendon,Port Adelaide,13942,23,17,18,120,7,Docklands,Port Adelaide,17,11,113,19.1766,17,11,-7
+1.1683,28/08/2011,Melbourne,Gold Coast,13941,23,17,10,112,30,M.C.G.,Gold Coast,12,10,82,6.8497,12,10,-30
+1.7072,9/09/2011,Geelong,Hawthorn,13951,25,14,14,98,31,M.C.G.,Hawthorn,9,13,67,2.4018,9,13,-31
+1.4715,16/09/2011,Hawthorn,Sydney,13955,26,19,8,122,36,M.C.G.,Sydney,13,8,86,3.0676,13,8,-36
+1.3981,17/09/2011,West Coast,Carlton,13956,26,15,11,101,3,Subiaco,Carlton,15,8,98,3.4605,15,8,-3
+1.2664,23/09/2011,Collingwood,Hawthorn,13957,27,10,8,68,3,M.C.G.,Hawthorn,9,11,65,4.6879,9,11,-3
+1.2185,24/09/2011,Geelong,West Coast,13958,27,17,15,117,48,M.C.G.,West Coast,10,9,69,5.5401,10,9,-48
+26.0079,24/03/2012,GWS,Sydney,13960,1,5,7,37,-63,Stadium Australia,Sydney,14,16,100,1.041,14,16,63
+2.5725,29/03/2012,Richmond,Carlton,13961,1,12,9,81,-44,M.C.G.,Carlton,18,17,125,1.625,18,17,44
+1.7072,30/03/2012,Hawthorn,Collingwood,13962,1,20,17,137,22,M.C.G.,Collingwood,16,19,115,2.4033,16,19,-22
+2.2707,31/03/2012,Fremantle,Geelong,13966,1,16,9,105,4,Subiaco,Geelong,15,11,101,1.7742,15,11,-4
+5.9796,31/03/2012,Gold Coast,Adelaide,13964,1,10,8,68,-69,Carrara,Adelaide,19,23,137,1.1991,19,23,69
+1.4042,31/03/2012,Melbourne,Brisbane,13963,1,11,12,78,-41,M.C.G.,Brisbane,17,17,119,3.4343,17,17,41
+2.1522,31/03/2012,North Melbourne,Essendon,13965,1,15,12,102,-2,Docklands,Essendon,14,20,104,1.8503,14,20,2
+2.0239,13/04/2012,Carlton,Collingwood,13978,3,18,14,122,60,M.C.G.,Collingwood,9,8,62,1.9627,9,8,-60
+1.1095,14/04/2012,Fremantle,Brisbane,13981,3,8,16,64,29,Subiaco,Brisbane,5,5,35,9.9562,5,5,-29
+14.7577,14/04/2012,Gold Coast,Essendon,13982,3,13,10,88,-17,Carrara,Essendon,15,15,105,1.0686,15,15,17
+2.993,14/04/2012,Port Adelaide,Sydney,13980,3,12,11,83,-22,Football Park,Sydney,16,9,105,1.4892,16,9,22
+1.2363,14/04/2012,Richmond,Melbourne,13979,3,20,13,133,59,M.C.G.,Melbourne,11,8,74,5.1247,11,8,-59
+2.7128,14/04/2012,Western Bulldogs,St Kilda,13983,3,5,10,40,-63,Docklands,St Kilda,15,13,103,1.5721,15,13,63
+89.9648,15/04/2012,GWS,West Coast,13984,3,10,9,69,-81,Blacktown,West Coast,23,12,150,1.0101,23,12,81
+1.2197,15/04/2012,Hawthorn,Adelaide,13985,3,21,14,140,56,M.C.G.,Adelaide,12,12,84,5.512,12,12,-56
+4.5284,15/04/2012,North Melbourne,Geelong,13986,3,20,11,131,17,Docklands,Geelong,16,18,114,1.2763,16,18,-17
+1.4574,20/04/2012,St Kilda,Fremantle,13987,4,11,13,79,-13,Docklands,Fremantle,14,8,92,3.1418,14,8,13
+1.0124,21/04/2012,Adelaide,GWS,13990,4,13,18,96,46,Football Park,GWS,7,8,50,83.986,7,8,-46
+1.3925,21/04/2012,Brisbane,Gold Coast,13992,4,17,9,111,65,Gabba,Gold Coast,6,10,46,3.5474,6,10,-65
+1.1376,21/04/2012,Carlton,Essendon,13988,4,11,13,79,-30,M.C.G.,Essendon,15,19,109,7.9772,15,19,30
+1.2794,21/04/2012,Collingwood,Port Adelaide,13989,4,14,13,97,24,Docklands,Port Adelaide,10,13,73,4.3848,10,13,-24
+1.675,21/04/2012,West Coast,Hawthorn,13991,4,5,21,51,5,Subiaco,Hawthorn,5,16,46,2.4605,5,16,-5
+1.1636,22/04/2012,Geelong,Richmond,13993,4,11,9,75,10,Kardinia Park,Richmond,9,11,65,6.8697,9,11,-10
+3.1532,22/04/2012,Melbourne,Western Bulldogs,13995,4,9,13,67,-21,M.C.G.,Western Bulldogs,13,10,88,1.4586,13,10,21
+2.0426,22/04/2012,Sydney,North Melbourne,13994,4,17,11,113,36,S.C.G.,North Melbourne,10,17,77,1.9519,10,17,-36
+1.676,25/04/2012,Collingwood,Essendon,13996,5,11,14,80,1,M.C.G.,Essendon,11,13,79,2.4454,11,13,-1
+2.4042,27/04/2012,Fremantle,Carlton,13997,5,7,15,57,-8,Subiaco,Carlton,10,5,65,1.7068,10,5,8
+4.1308,28/04/2012,Brisbane,Geelong,14001,5,4,17,41,-38,Gabba,Geelong,12,7,79,1.3123,12,7,38
+17.4181,28/04/2012,GWS,Western Bulldogs,13998,5,9,8,62,-42,Manuka Oval,Western Bulldogs,15,14,104,1.0591,15,14,42
+8.9889,28/04/2012,Melbourne,St Kilda,14000,5,10,6,66,-18,M.C.G.,St Kilda,12,12,84,1.1212,12,12,18
+1.0206,28/04/2012,North Melbourne,Gold Coast,13999,5,17,25,127,34,Docklands,Gold Coast,13,15,93,44.3352,13,15,-34
+1.5593,29/04/2012,Adelaide,Port Adelaide,14004,5,16,14,110,19,Football Park,Port Adelaide,14,7,91,2.7654,14,7,-19
+1.3377,29/04/2012,Hawthorn,Sydney,14002,5,10,9,69,-37,York Park,Sydney,16,10,106,3.9208,16,10,37
+3.6641,29/04/2012,Richmond,West Coast,14003,5,14,13,97,-10,Docklands,West Coast,16,11,107,1.3702,16,11,10
+1.15,5/05/2012,Essendon,Brisbane,14006,6,19,15,129,67,Docklands,Brisbane,9,8,62,7.6187,9,8,-67
+1.0681,5/05/2012,Geelong,Melbourne,14007,6,17,17,119,43,Kardinia Park,Melbourne,11,10,76,15.5907,11,10,-43
+8.1488,5/05/2012,Gold Coast,Fremantle,14008,6,14,3,87,-7,Carrara,Fremantle,14,10,94,1.1349,14,10,7
+4.2038,5/05/2012,St Kilda,Hawthorn,14010,6,13,10,88,-35,M.C.G.,Hawthorn,18,15,123,1.2993,18,15,35
+1.3245,5/05/2012,Sydney,Adelaide,14009,6,14,10,94,-5,S.C.G.,Adelaide,15,9,99,4.0121,15,9,5
+1.1441,13/05/2012,Fremantle,Port Adelaide,14021,7,12,15,87,40,Subiaco,Port Adelaide,7,5,47,7.6813,7,5,-40
+1.3094,13/05/2012,North Melbourne,Western Bulldogs,14020,7,12,11,83,-18,Docklands,Western Bulldogs,15,11,101,4.1731,15,11,18
+4.9267,14/05/2012,St Kilda,Carlton,14022,7,19,8,122,24,Docklands,Carlton,14,14,98,1.25,14,14,-24
+1.6285,18/05/2012,Collingwood,Geelong,14023,8,14,12,96,12,M.C.G.,Geelong,11,18,84,2.5757,11,18,-12
+1.5239,19/05/2012,Essendon,Richmond,14028,8,19,14,128,19,M.C.G.,Richmond,15,19,109,2.8892,15,19,-19
+1.2182,19/05/2012,Hawthorn,Fremantle,14025,8,17,17,119,56,York Park,Fremantle,9,9,63,5.4205,9,9,-56
+2.8731,19/05/2012,Port Adelaide,North Melbourne,14024,8,14,11,95,2,Football Park,North Melbourne,14,9,93,1.5325,14,9,-2
+1.1401,19/05/2012,Sydney,Melbourne,14026,8,21,12,138,101,S.C.G.,Melbourne,5,7,37,8.0384,5,7,-101
+1.1541,19/05/2012,Western Bulldogs,Gold Coast,14027,8,9,18,72,38,Marrara Oval,Gold Coast,4,10,34,7.4473,4,10,-38
+1.1528,20/05/2012,Brisbane,GWS,14029,8,19,18,132,92,Gabba,GWS,5,10,40,7.5784,5,10,-92
+1.4911,20/05/2012,Carlton,Adelaide,14030,8,8,7,55,-69,Docklands,Adelaide,19,10,124,3.0104,19,10,69
+1.4398,20/05/2012,West Coast,St Kilda,14031,8,18,13,121,30,Subiaco,St Kilda,13,13,91,3.2514,13,13,-30
+5.1139,25/05/2012,Western Bulldogs,Geelong,14032,9,11,9,75,-20,Docklands,Geelong,14,11,95,1.2405,14,11,20
+1.5263,26/05/2012,Adelaide,Collingwood,14036,9,6,13,49,-26,Football Park,Collingwood,10,15,75,2.8756,10,15,26
+48.354,26/05/2012,GWS,Essendon,14037,9,7,11,53,-66,Sydney Showground,Essendon,18,11,119,1.021,18,11,66
+2.5591,26/05/2012,Gold Coast,Port Adelaide,14034,9,10,10,70,-48,Carrara,Port Adelaide,17,16,118,1.6252,17,16,48
+4.2343,26/05/2012,Richmond,Hawthorn,14033,9,21,11,137,62,M.C.G.,Hawthorn,10,15,75,1.3068,10,15,-62
+1.9649,26/05/2012,St Kilda,Sydney,14035,9,16,15,111,28,Docklands,Sydney,12,11,83,2.0277,12,11,-28
+1.0882,27/05/2012,Carlton,Melbourne,14039,9,15,17,107,58,M.C.G.,Melbourne,6,13,49,12.3669,6,13,-58
+1.2562,27/05/2012,North Melbourne,Brisbane,14038,9,17,10,112,16,Docklands,Brisbane,15,6,96,4.7762,15,6,-16
+1.368,27/05/2012,West Coast,Fremantle,14040,9,11,18,84,48,Subiaco,Fremantle,5,6,36,3.629,5,6,-48
+1.3232,14/06/2012,West Coast,Carlton,14056,12,10,19,79,10,Subiaco,Carlton,10,9,69,4.0591,10,9,-10
+1.5387,15/06/2012,Adelaide,St Kilda,14057,12,17,13,115,4,Football Park,St Kilda,16,15,111,2.8434,16,15,-4
+14.4268,16/06/2012,GWS,Richmond,14058,12,12,2,74,-12,Sydney Showground,Richmond,11,20,86,1.0728,11,20,12
+6.3554,16/06/2012,Gold Coast,North Melbourne,14059,12,12,8,80,-7,Carrara,North Melbourne,11,21,87,1.1822,11,21,7
+1.0795,17/06/2012,Hawthorn,Brisbane,14060,12,19,21,135,65,M.C.G.,Brisbane,11,4,70,13.1855,11,4,-65
+1.4598,17/06/2012,Western Bulldogs,Port Adelaide,14061,12,13,17,95,38,Docklands,Port Adelaide,8,9,57,3.1164,8,9,-38
+1.6596,22/06/2012,Sydney,Geelong,14062,13,12,8,80,6,S.C.G.,Geelong,11,8,74,2.4778,11,8,-6
+1.409,23/06/2012,Collingwood,West Coast,14064,13,12,13,85,3,M.C.G.,West Coast,12,10,82,3.3997,12,10,-3
+2.3839,23/06/2012,Fremantle,Essendon,14065,13,14,5,89,-24,Subiaco,Essendon,17,11,113,1.7049,17,11,24
+1.4559,23/06/2012,Western Bulldogs,Brisbane,14063,13,7,14,56,-58,Docklands,Brisbane,18,6,114,3.1445,18,6,58
+1.311,24/06/2012,Melbourne,GWS,14066,13,20,15,135,78,M.C.G.,GWS,9,3,57,4.1752,9,3,-78
+3.5693,24/06/2012,North Melbourne,Adelaide,14067,13,17,19,121,32,Docklands,Adelaide,13,11,89,1.3847,13,11,-32
+3.7986,29/06/2012,Carlton,Hawthorn,14068,14,10,10,70,-50,M.C.G.,Hawthorn,18,12,120,1.3515,18,12,50
+1.5035,30/06/2012,Adelaide,Richmond,14070,14,17,4,106,19,Football Park,Richmond,13,9,87,2.9411,13,9,-19
+1.12,30/06/2012,Collingwood,Fremantle,14069,14,15,17,107,29,M.C.G.,Fremantle,12,6,78,9.0909,12,6,-29
+1.2023,30/06/2012,Essendon,Western Bulldogs,14072,14,21,14,140,84,Docklands,Western Bulldogs,8,8,56,5.7881,8,8,-84
+1.0236,30/06/2012,Sydney,GWS,14073,14,19,18,132,94,Stadium Australia,GWS,5,8,38,39.2735,5,8,-94
+1.0199,30/06/2012,West Coast,Gold Coast,14071,14,25,16,166,126,Subiaco,Gold Coast,5,10,40,39.7991,5,10,-126
+4.7075,7/07/2012,Melbourne,Richmond,14079,15,11,12,78,-23,M.C.G.,Richmond,13,23,101,1.2655,13,23,23
+2.7566,7/07/2012,North Melbourne,West Coast,14078,15,13,6,84,-2,Bellerive Oval,West Coast,12,14,86,1.5593,12,14,2
+4.3594,7/07/2012,Port Adelaide,Adelaide,14081,15,8,10,58,-58,Football Park,Adelaide,17,14,116,1.2926,17,14,58
+3.3086,7/07/2012,St Kilda,Essendon,14082,15,21,7,133,71,Docklands,Essendon,8,14,62,1.4229,8,14,-71
+1.2026,7/07/2012,Sydney,Brisbane,14080,15,16,14,110,47,S.C.G.,Brisbane,9,9,63,5.7309,9,9,-47
+2.2921,13/07/2012,North Melbourne,Carlton,14086,16,24,5,149,53,Docklands,Carlton,14,12,96,1.7668,14,12,-53
+2.6832,14/07/2012,Brisbane,St Kilda,14091,16,14,8,92,-13,Gabba,St Kilda,16,9,105,1.583,16,9,13
+2.9716,14/07/2012,Geelong,Collingwood,14090,16,10,19,79,-31,M.C.G.,Collingwood,17,8,110,1.5008,17,8,31
+3.5532,14/07/2012,Melbourne,Fremantle,14087,16,12,11,83,-34,Docklands,Fremantle,18,9,117,1.3823,18,9,34
+2.7642,14/07/2012,Port Adelaide,Essendon,14088,16,11,11,77,-50,Football Park,Essendon,19,13,127,1.5622,19,13,50
+1.2141,14/07/2012,Richmond,Gold Coast,14089,16,13,10,88,-2,Cazaly's Stadium,Gold Coast,13,12,90,5.534,13,12,2
+27.4062,15/07/2012,GWS,Adelaide,14092,16,8,11,59,-119,Sydney Showground,Adelaide,27,16,178,1.0368,27,16,119
+1.8797,15/07/2012,West Coast,Sydney,14094,16,10,9,69,-52,Subiaco,Sydney,18,13,121,2.1307,18,13,52
+11.0535,15/07/2012,Western Bulldogs,Hawthorn,14093,16,6,8,44,-72,Docklands,Hawthorn,17,14,116,1.0973,17,14,72
+2.13,20/07/2012,Geelong,Essendon,14095,17,20,14,134,67,Docklands,Essendon,10,7,67,1.8745,10,7,-67
+1.4979,21/07/2012,Adelaide,West Coast,14097,17,19,10,124,49,Football Park,West Coast,11,9,75,2.9942,11,9,-49
+1.9142,21/07/2012,Collingwood,Hawthorn,14096,17,13,13,91,-47,M.C.G.,Hawthorn,21,12,138,2.0628,21,12,47
+4.4391,21/07/2012,Gold Coast,Brisbane,14098,17,5,18,48,-11,Carrara,Brisbane,8,11,59,1.2805,8,11,11
+2.4257,21/07/2012,Melbourne,Port Adelaide,14100,17,8,8,56,-28,Marrara Oval,Port Adelaide,12,12,84,1.6944,12,12,28
+2.47,21/07/2012,Western Bulldogs,Carlton,14099,17,12,12,84,-18,Docklands,Carlton,16,6,102,1.6818,16,6,18
+1.02,22/07/2012,Fremantle,GWS,14103,17,18,24,132,95,Subiaco,GWS,5,7,37,43.9524,5,7,-95
+2.1798,22/07/2012,Richmond,North Melbourne,14102,17,14,15,99,-4,M.C.G.,North Melbourne,15,13,103,1.842,15,13,4
+1.3903,22/07/2012,Sydney,St Kilda,14101,17,15,15,105,29,S.C.G.,St Kilda,10,16,76,3.5612,10,16,-29
+6.437,27/07/2012,Essendon,Hawthorn,14104,18,12,14,86,-94,Docklands,Hawthorn,27,18,180,1.1759,27,18,94
+2.6593,28/07/2012,Carlton,Richmond,14108,18,14,11,95,4,M.C.G.,Richmond,13,13,91,1.5744,13,13,-4
+51.8905,28/07/2012,GWS,Collingwood,14107,18,7,12,54,-120,Sydney Showground,Collingwood,26,18,174,1.02,26,18,120
+1.6553,28/07/2012,Geelong,Adelaide,14105,18,15,12,102,27,Kardinia Park,Adelaide,11,9,75,2.5039,11,9,-27
+16.5126,28/07/2012,Gold Coast,Sydney,14109,18,8,6,54,-72,Carrara,Sydney,19,12,126,1.0635,19,12,72
+1.0919,28/07/2012,North Melbourne,Melbourne,14106,18,19,13,127,54,Docklands,Melbourne,11,7,73,11.8078,11,7,-54
+2.9192,29/07/2012,Port Adelaide,Fremantle,14110,18,6,12,48,-27,Football Park,Fremantle,11,9,75,1.5158,11,9,27
+1.1465,29/07/2012,St Kilda,Western Bulldogs,14111,18,16,22,118,76,Docklands,Western Bulldogs,6,6,42,7.8609,6,6,-76
+1.1438,29/07/2012,West Coast,Brisbane,14112,18,28,7,175,98,Subiaco,Brisbane,12,5,77,7.6737,12,5,-98
+1.1107,4/08/2012,Western Bulldogs,North Melbourne,13975,2,28,15,183,129,Bellerive Oval,GWS,8,6,54,6.5154,8,6,-129
+1.3258,17/08/2012,Geelong,St Kilda,14131,21,18,15,123,42,Docklands,St Kilda,11,15,81,4.0448,11,15,-42
+4.9674,18/08/2012,Brisbane,Adelaide,14135,21,13,17,95,10,Gabba,Adelaide,12,13,85,1.2493,12,13,-10
+1.3211,18/08/2012,Collingwood,North Melbourne,14136,21,8,13,61,-30,Docklands,North Melbourne,13,13,91,3.984,13,13,30
+2.1168,18/08/2012,Essendon,Carlton,14132,21,8,12,60,-96,M.C.G.,Carlton,24,12,156,1.8745,24,12,96
+1.4615,18/08/2012,Fremantle,Richmond,14134,21,13,16,94,22,Subiaco,Richmond,11,6,72,3.1369,11,6,-22
+5.4603,18/08/2012,GWS,Melbourne,14133,21,9,5,59,-25,Manuka Oval,Melbourne,11,18,84,1.2202,11,18,25
+1.0168,19/08/2012,Hawthorn,Gold Coast,14139,21,19,15,129,64,M.C.G.,Gold Coast,10,5,65,61.7537,10,5,-64
+7.1824,19/08/2012,Port Adelaide,West Coast,14137,21,6,14,50,-48,Football Park,West Coast,14,14,98,1.1558,14,14,48
+11.4554,19/08/2012,Western Bulldogs,Sydney,14138,21,13,7,85,-82,Docklands,Sydney,26,11,167,1.0893,26,11,82
+1.6302,24/08/2012,Richmond,Essendon,14140,22,13,24,102,45,M.C.G.,Essendon,8,9,57,2.5798,8,9,-45
+27.8458,25/08/2012,Gold Coast,Carlton,14144,22,15,8,98,12,Carrara,Carlton,11,20,86,1.035,11,20,-12
+2.5037,25/08/2012,Port Adelaide,Brisbane,14142,22,14,9,93,-11,Football Park,Brisbane,16,8,104,1.6572,16,8,11
+1.0232,25/08/2012,St Kilda,GWS,14141,22,25,13,163,128,Docklands,GWS,5,5,35,34.9768,5,5,-128
+2.0502,25/08/2012,Sydney,Hawthorn,14143,22,14,11,95,-7,S.C.G.,Hawthorn,15,12,102,1.9069,15,12,7
+1.7634,25/08/2012,West Coast,Collingwood,14145,22,15,17,107,49,Subiaco,Collingwood,8,10,58,2.2851,8,10,-49
+1.0377,26/08/2012,Geelong,Western Bulldogs,14146,22,16,11,107,34,Kardinia Park,Western Bulldogs,11,7,73,26.7931,11,7,-34
+7.1916,26/08/2012,Melbourne,Adelaide,14148,22,11,15,81,-69,M.C.G.,Adelaide,22,18,150,1.1581,22,18,69
+1.2979,26/08/2012,North Melbourne,Fremantle,14147,22,12,7,79,-53,Docklands,Fremantle,20,12,132,4.2522,20,12,53
+1.2658,31/08/2012,Hawthorn,West Coast,14149,23,14,11,95,25,M.C.G.,West Coast,10,10,70,4.6138,10,10,-25
+1.2128,9/09/2012,West Coast,North Melbourne,14161,24,24,18,162,96,Subiaco,North Melbourne,9,12,66,5.5341,9,12,-96
+1.6116,14/09/2012,Adelaide,Fremantle,14162,25,12,9,81,10,Football Park,Fremantle,11,5,71,2.6148,11,5,-10
+2.0665,15/09/2012,Collingwood,West Coast,14163,25,10,13,73,13,M.C.G.,West Coast,9,6,60,1.9283,9,6,-13
+1.5278,21/09/2012,Sydney,Collingwood,14164,26,13,18,96,26,Stadium Australia,Collingwood,10,10,70,2.8713,10,10,-26
+1.1666,22/09/2012,Hawthorn,Adelaide,14165,26,13,19,97,5,M.C.G.,Adelaide,14,8,92,6.9149,14,8,-5
+2.7746,29/09/2012,Hawthorn,Sydney,14166,27,14,7,91,10,M.C.G.,Hawthorn,11,15,81,1.5577,11,15,-10
+1.5642,22/03/2013,Adelaide,Essendon,14167,1,11,16,82,-35,Football Park,Essendon,18,9,117,2.7554,18,9,35
+1.8018,23/03/2013,Fremantle,West Coast,14168,1,16,12,108,28,Subiaco,West Coast,11,14,80,2.234,11,14,-28
+2.0201,28/03/2013,Carlton,Richmond,14169,1,14,17,101,-5,M.C.G.,Richmond,14,22,106,1.9757,14,22,5
+21.2333,30/03/2013,GWS,Sydney,14171,1,11,10,76,-30,Stadium Australia,Sydney,16,10,106,1.0492,16,10,30
+3.4932,30/03/2013,Gold Coast,St Kilda,14172,1,13,12,90,13,Carrara,St Kilda,10,17,77,1.3879,10,17,-13
+4.3742,30/03/2013,Western Bulldogs,Brisbane,14170,1,19,13,127,68,Docklands,Brisbane,7,17,59,1.2858,7,17,-68
+1.9796,31/03/2013,Melbourne,Port Adelaide,14173,1,8,6,54,-79,M.C.G.,Port Adelaide,19,19,133,2.0091,19,19,79
+2.3539,31/03/2013,North Melbourne,Collingwood,14174,1,13,9,87,-16,Docklands,Collingwood,15,13,103,1.7282,15,13,16
+5.0112,13/04/2013,GWS,St Kilda,14188,3,10,8,68,-72,Manuka Oval,St Kilda,21,14,140,1.244,21,14,72
+1.5473,13/04/2013,Geelong,Carlton,14189,3,18,11,119,16,Docklands,Carlton,15,13,103,2.8118,15,13,-16
+2.8127,13/04/2013,Gold Coast,Brisbane,14190,3,13,14,92,-2,Carrara,Brisbane,13,16,94,1.5482,13,16,2
+18.6,13/04/2013,Melbourne,West Coast,14187,3,13,5,83,-94,M.C.G.,West Coast,27,15,177,1.0506,27,15,94
+2.2485,13/04/2013,North Melbourne,Sydney,14186,3,13,14,92,-39,Bellerive Oval,Sydney,20,11,131,1.7943,20,11,39
+2.5545,14/04/2013,Collingwood,Hawthorn,14192,3,13,12,90,-55,M.C.G.,Hawthorn,22,13,145,1.6248,22,13,55
+3.0894,14/04/2013,Port Adelaide,Adelaide,14193,3,17,16,118,9,Football Park,Adelaide,16,13,109,1.47,16,13,-9
+1.3022,14/04/2013,Richmond,Western Bulldogs,14191,3,20,15,135,67,Docklands,Western Bulldogs,10,8,68,4.2866,10,8,-67
+1.6104,19/04/2013,Sydney,Geelong,14194,4,16,7,103,-21,S.C.G.,Geelong,19,10,124,2.5926,19,10,21
+2.9403,20/04/2013,Gold Coast,Port Adelaide,14199,4,9,12,66,-38,Carrara,Port Adelaide,16,8,104,1.5169,16,8,38
+1.186,20/04/2013,Hawthorn,Fremantle,14195,4,18,10,118,42,York Park,Fremantle,11,10,76,6.3146,11,10,-42
+1.9929,20/04/2013,Richmond,Collingwood,14196,4,11,13,79,-34,M.C.G.,Collingwood,16,17,113,1.9974,16,17,34
+2.8231,20/04/2013,St Kilda,Essendon,14197,4,13,13,91,-37,Docklands,Essendon,19,14,128,1.5399,19,14,37
+1.4954,20/04/2013,West Coast,Carlton,14198,4,7,23,65,-24,Subiaco,Carlton,12,17,89,2.9934,12,17,24
+1.1463,21/04/2013,Adelaide,Western Bulldogs,14201,4,12,8,80,52,Football Park,Western Bulldogs,4,4,28,7.8447,4,4,-52
+1.4607,21/04/2013,Melbourne,GWS,14200,4,22,12,144,41,M.C.G.,GWS,15,13,103,3.1158,15,13,-41
+1.2887,21/04/2013,North Melbourne,Brisbane,14202,4,18,17,125,63,Docklands,Brisbane,9,8,62,4.4559,9,8,-63
+2.3722,25/04/2013,Essendon,Collingwood,14203,5,18,13,121,46,M.C.G.,Collingwood,10,15,75,1.7189,10,15,-46
+6.297,25/04/2013,St Kilda,Sydney,14204,5,9,9,63,-16,Wellington,Sydney,11,13,79,1.185,11,13,16
+1.4979,26/04/2013,Fremantle,Richmond,14205,5,12,9,81,1,Subiaco,Richmond,12,8,80,2.9936,12,8,-1
+1.4703,27/04/2013,Carlton,Adelaide,14207,5,17,13,115,32,M.C.G.,Adelaide,12,11,83,3.0743,12,11,-32
+3.7286,27/04/2013,GWS,Gold Coast,14206,5,16,8,104,-44,Manuka Oval,Gold Coast,21,22,148,1.3657,21,22,44
+2.0313,27/04/2013,Port Adelaide,West Coast,14209,5,12,12,84,5,Football Park,West Coast,10,19,79,1.9568,10,19,-5
+26.4221,27/04/2013,Western Bulldogs,Geelong,14208,5,13,8,86,-21,Docklands,Geelong,15,17,107,1.0355,15,17,21
+1.2091,28/04/2013,Brisbane,Melbourne,14210,5,17,20,122,28,Gabba,Melbourne,14,10,94,5.6737,14,10,-28
+1.198,28/04/2013,Hawthorn,North Melbourne,14211,5,14,15,99,3,M.C.G.,North Melbourne,13,18,96,6.0482,13,18,-3
+1.0295,5/05/2013,Carlton,Melbourne,14219,6,18,13,121,61,M.C.G.,Melbourne,8,12,60,34.4158,8,12,-61
+1.0836,5/05/2013,Sydney,Brisbane,14218,6,17,13,115,60,S.C.G.,Brisbane,8,7,55,13.0536,8,7,-60
+1.0463,5/05/2013,West Coast,Western Bulldogs,14220,6,21,11,137,70,Subiaco,Western Bulldogs,10,7,67,21.5564,10,7,-70
+4.3322,13/05/2013,St Kilda,Carlton,14229,7,11,11,77,9,Docklands,Carlton,9,14,68,1.2937,9,14,-9
+1.4096,17/05/2013,West Coast,North Melbourne,14230,8,12,18,90,2,Subiaco,North Melbourne,13,10,88,3.3959,13,10,-2
+3.5864,18/05/2013,Collingwood,Geelong,14234,8,15,12,102,6,M.C.G.,Geelong,14,12,96,1.3836,14,12,-6
+1.0741,18/05/2013,Essendon,Brisbane,14231,8,12,14,86,-10,Docklands,Brisbane,14,12,96,13.3208,14,12,10
+1.7349,18/05/2013,Gold Coast,Western Bulldogs,14233,8,13,15,93,32,Carrara,Western Bulldogs,8,13,61,2.3394,8,13,-32
+1.0101,18/05/2013,Hawthorn,GWS,14232,8,21,14,140,83,York Park,GWS,9,3,57,79.6192,9,3,-83
+1.3407,18/05/2013,Sydney,Fremantle,14235,8,11,4,70,0,S.C.G.,Fremantle,9,16,70,3.8501,9,16,0
+1.384,19/05/2013,Adelaide,St Kilda,14238,8,12,15,87,40,Football Park,St Kilda,6,11,47,3.4865,6,11,-40
+1.4196,19/05/2013,Carlton,Port Adelaide,14236,8,16,13,109,18,Docklands,Port Adelaide,14,7,91,3.3407,14,7,-18
+1.059,19/05/2013,Richmond,Melbourne,14237,8,15,16,106,34,M.C.G.,Melbourne,11,6,72,17.2368,11,6,-34
+1.682,24/05/2013,Collingwood,Sydney,14239,9,8,7,55,-47,M.C.G.,Sydney,15,12,102,2.4491,15,12,47
+2.9899,25/05/2013,Brisbane,Carlton,14243,9,12,13,85,-13,Gabba,Carlton,13,20,98,1.4965,13,20,13
+23.018,25/05/2013,GWS,West Coast,14241,9,8,7,55,-100,Sydney Showground,West Coast,23,17,155,1.0465,23,17,100
+5.1846,25/05/2013,Port Adelaide,Geelong,14240,9,9,14,68,-48,Football Park,Geelong,18,8,116,1.2329,18,8,48
+2.1483,25/05/2013,Richmond,Essendon,14244,9,9,8,62,-29,M.C.G.,Essendon,13,13,91,1.8552,13,13,29
+1.204,25/05/2013,St Kilda,Western Bulldogs,14242,9,15,11,101,-9,Docklands,Western Bulldogs,17,8,110,5.7983,17,8,9
+1.0352,26/05/2013,Fremantle,Melbourne,14247,9,19,16,130,90,Subiaco,Melbourne,6,4,40,27.1454,6,4,-90
+1.0301,26/05/2013,Hawthorn,Gold Coast,14245,9,18,10,118,26,M.C.G.,Gold Coast,14,8,92,29.5373,14,8,-26
+1.4381,26/05/2013,North Melbourne,Adelaide,14246,9,19,10,124,-1,Docklands,Adelaide,18,17,125,3.197,18,17,1
+4.9234,31/05/2013,Brisbane,Collingwood,14248,10,7,9,51,-49,Gabba,Collingwood,14,16,100,1.2513,14,16,49
+4.4551,14/06/2013,Carlton,Hawthorn,14263,12,13,9,87,-15,Docklands,Hawthorn,15,12,102,1.2796,15,12,15
+1.1846,15/06/2013,Essendon,Gold Coast,14266,12,17,13,115,43,Docklands,Gold Coast,11,6,72,6.2903,11,6,-43
+1.0803,15/06/2013,Fremantle,Brisbane,14265,12,12,14,86,40,Subiaco,Brisbane,6,10,46,12.4704,6,10,-40
+1.4453,15/06/2013,Richmond,Adelaide,14264,12,16,14,110,38,M.C.G.,Adelaide,10,12,72,3.1635,10,12,-38
+1.1475,16/06/2013,Collingwood,Western Bulldogs,14268,12,15,9,99,34,Docklands,Western Bulldogs,9,11,65,7.8159,9,11,-34
+4.413,16/06/2013,GWS,Port Adelaide,14267,12,6,14,50,-75,Sydney Showground,Port Adelaide,19,11,125,1.2873,19,11,75
+1.212,21/06/2013,Hawthorn,West Coast,14269,13,19,9,123,20,Docklands,West Coast,16,7,103,5.6066,16,7,-20
+11.4405,22/06/2013,Port Adelaide,Sydney,14270,13,10,12,72,18,Football Park,Sydney,8,6,54,1.096,8,6,-18
+1.17,22/06/2013,St Kilda,Melbourne,14271,13,16,8,104,35,M.C.G.,Melbourne,10,9,69,6.7325,10,9,-35
+9.8486,22/06/2013,Western Bulldogs,Richmond,14272,13,8,13,61,-60,Docklands,Richmond,17,19,121,1.1111,17,19,60
+6.3085,23/06/2013,Brisbane,Geelong,14274,13,15,13,103,5,Gabba,Geelong,14,14,98,1.1785,14,14,-5
+1.4105,23/06/2013,Fremantle,North Melbourne,14273,13,10,7,67,38,Subiaco,North Melbourne,4,5,29,3.3866,4,5,-38
+2.251,27/06/2013,West Coast,Essendon,14275,14,13,13,91,-7,Subiaco,Essendon,15,8,98,1.792,15,8,7
+1.4587,28/06/2013,Sydney,Carlton,14276,14,8,17,65,22,S.C.G.,Carlton,5,13,43,3.1476,5,13,-22
+1.412,29/06/2013,Geelong,Fremantle,14280,14,11,19,85,41,Kardinia Park,Fremantle,7,2,44,3.3886,7,2,-41
+2.4588,29/06/2013,Gold Coast,Adelaide,14277,14,11,17,83,-28,Carrara,Adelaide,16,15,111,1.678,16,15,28
+4.2682,29/06/2013,Melbourne,Western Bulldogs,14279,14,15,13,103,3,M.C.G.,Western Bulldogs,15,10,100,1.3157,15,10,-3
+3.2678,29/06/2013,Port Adelaide,Collingwood,14278,14,13,8,86,35,Football Park,Collingwood,7,9,51,1.4364,7,9,-35
+1.098,30/06/2013,Hawthorn,Brisbane,14281,14,21,17,143,58,York Park,Brisbane,12,13,85,11.1272,12,13,-58
+1.0276,30/06/2013,North Melbourne,GWS,14282,14,19,16,130,86,Docklands,GWS,6,8,44,37.8229,6,8,-86
+1.2031,30/06/2013,Richmond,St Kilda,14283,14,17,17,119,64,M.C.G.,St Kilda,8,7,55,5.7651,8,7,-64
+1.3641,7/07/2013,Essendon,Port Adelaide,14292,15,18,10,118,30,Docklands,Port Adelaide,12,16,88,3.6947,12,16,-30
+1.0681,7/07/2013,Fremantle,St Kilda,14291,15,15,10,100,30,Subiaco,St Kilda,11,4,70,15.8199,11,4,-30
+19.4035,7/07/2013,Melbourne,Sydney,14290,15,13,7,85,-31,M.C.G.,Sydney,16,20,116,1.0504,16,20,31
+3.1355,13/07/2013,Brisbane,North Melbourne,14298,16,18,9,117,12,Gabba,North Melbourne,17,3,105,1.4619,17,3,-12
+1.3892,13/07/2013,Carlton,St Kilda,14297,16,16,14,110,36,Docklands,St Kilda,10,14,74,3.5246,10,14,-36
+1.02,13/07/2013,Geelong,Melbourne,14295,16,13,20,98,68,Kardinia Park,Melbourne,4,6,30,46.6756,4,6,-68
+3.6249,13/07/2013,Port Adelaide,Hawthorn,14294,16,12,7,79,-45,Football Park,Hawthorn,19,10,124,1.3735,19,10,45
+1.2666,13/07/2013,Richmond,Gold Coast,14296,16,6,17,53,9,Cazaly's Stadium,Gold Coast,6,8,44,4.665,6,8,-9
+1.0169,14/07/2013,Sydney,GWS,14299,16,24,27,171,129,S.C.G.,GWS,5,12,42,55.8318,5,12,-129
+2.9983,14/07/2013,West Coast,Fremantle,14301,16,14,9,93,-28,Subiaco,Fremantle,19,7,121,1.5002,19,7,28
+8.1734,14/07/2013,Western Bulldogs,Essendon,14300,16,14,6,90,-31,Docklands,Essendon,18,13,121,1.1324,18,13,31
+1.6943,19/07/2013,North Melbourne,Carlton,14302,17,16,12,108,-1,Docklands,Carlton,16,13,109,2.43,16,13,1
+30.0045,20/07/2013,GWS,Essendon,14304,17,11,11,77,-39,Sydney Showground,Essendon,18,8,116,1.0303,18,8,39
+5.4204,20/07/2013,Gold Coast,Collingwood,14305,17,13,7,85,7,Carrara,Collingwood,11,12,78,1.2227,11,12,-7
+1.0611,20/07/2013,Hawthorn,Western Bulldogs,14303,17,13,17,95,19,York Park,Western Bulldogs,11,10,76,17.1239,11,10,-19
+4.2734,20/07/2013,Melbourne,Brisbane,14306,17,11,9,75,-19,Marrara Oval,Brisbane,13,16,94,1.3097,13,16,19
+2.2357,20/07/2013,St Kilda,Port Adelaide,14307,17,13,14,92,-5,Docklands,Port Adelaide,14,13,97,1.7988,14,13,5
+5.1109,21/07/2013,Adelaide,Geelong,14309,17,14,10,94,2,Football Park,Geelong,14,8,92,1.2342,14,8,-2
+1.7659,21/07/2013,Richmond,Fremantle,14308,17,12,12,84,27,M.C.G.,Fremantle,8,9,57,2.2681,8,9,-27
+2.8496,21/07/2013,West Coast,Sydney,14310,17,11,13,79,-34,Subiaco,Sydney,17,11,113,1.5331,17,11,34
+3.6603,26/07/2013,Essendon,Hawthorn,14311,18,13,9,87,-56,Docklands,Hawthorn,22,11,143,1.3743,22,11,56
+1.02,27/07/2013,Collingwood,GWS,14314,18,15,16,106,40,M.C.G.,GWS,10,6,66,45.4348,10,6,-40
+1.3186,27/07/2013,Fremantle,Adelaide,14315,18,11,9,75,22,Subiaco,Adelaide,7,11,53,4.12,7,11,-22
+1.0918,27/07/2013,Geelong,St Kilda,14316,18,21,11,137,101,Kardinia Park,St Kilda,5,6,36,11.3972,5,6,-101
+3.1986,27/07/2013,Gold Coast,Carlton,14312,18,11,11,77,-43,Carrara,Carlton,16,24,120,1.4575,16,24,43
+19.0489,27/07/2013,Melbourne,North Melbourne,14313,18,4,4,28,-122,Docklands,North Melbourne,22,18,150,1.0552,22,18,122
+1.4016,28/07/2013,Port Adelaide,Brisbane,14317,18,9,17,71,9,Football Park,Brisbane,9,8,62,3.4705,9,8,-9
+1.3366,28/07/2013,Sydney,Richmond,14319,18,16,14,110,47,S.C.G.,Richmond,9,9,63,3.9092,9,9,-47
+2.5571,28/07/2013,Western Bulldogs,West Coast,14318,18,16,15,111,22,Docklands,West Coast,13,11,89,1.6264,13,11,-22
+1.5909,16/08/2013,Hawthorn,Collingwood,14338,21,18,11,119,35,M.C.G.,Collingwood,12,12,84,2.6733,12,12,-35
+1.0731,17/08/2013,Brisbane,GWS,14343,21,18,15,123,60,Gabba,GWS,9,9,63,13.6565,9,9,-60
+2.7835,17/08/2013,Essendon,North Melbourne,14341,21,9,16,70,-45,Docklands,North Melbourne,17,13,115,1.5415,17,13,45
+1.2532,17/08/2013,Port Adelaide,Gold Coast,14340,21,16,17,113,17,Football Park,Gold Coast,14,12,96,4.9134,14,12,-17
+1.328,17/08/2013,Richmond,Carlton,14339,21,14,12,96,-10,M.C.G.,Carlton,16,10,106,4.0021,16,10,10
+3.031,17/08/2013,West Coast,Geelong,14342,21,6,5,41,-66,Subiaco,Geelong,16,11,107,1.4864,16,11,66
+39.4678,18/08/2013,Melbourne,Fremantle,14344,21,5,8,38,-95,M.C.G.,Fremantle,20,13,133,1.0283,20,13,95
+1.0337,18/08/2013,Sydney,St Kilda,14345,21,18,10,118,59,S.C.G.,St Kilda,8,11,59,27.1812,8,11,-59
+2.1357,18/08/2013,Western Bulldogs,Adelaide,14346,21,20,11,131,17,Docklands,Adelaide,17,12,114,1.847,17,12,-17
+1.143,23/08/2013,Collingwood,West Coast,14347,22,15,11,101,62,M.C.G.,West Coast,5,9,39,7.4685,5,9,-62
+1.0495,24/08/2013,Adelaide,Melbourne,14348,22,18,12,120,68,Football Park,Melbourne,7,10,52,22.0783,7,10,-68
+1.5272,24/08/2013,Carlton,Essendon,14351,22,9,22,76,-6,M.C.G.,Essendon,12,10,82,2.87,12,10,6
+1.1431,24/08/2013,Fremantle,Port Adelaide,14352,22,21,8,134,74,Subiaco,Port Adelaide,9,6,60,7.7182,9,6,-74
+1.4465,24/08/2013,Geelong,Sydney,14350,22,13,14,92,44,Kardinia Park,Sydney,7,6,48,3.2162,7,6,-44
+3.9901,24/08/2013,North Melbourne,Hawthorn,14349,22,15,13,103,-14,Docklands,Hawthorn,17,15,117,1.3309,17,15,14
+1.618,25/08/2013,Brisbane,Western Bulldogs,14355,22,15,10,100,7,Gabba,Western Bulldogs,13,15,93,2.6035,13,15,-7
+29.2649,25/08/2013,GWS,Richmond,14354,22,6,6,42,-121,Sydney Showground,Richmond,25,13,163,1.0321,25,13,121
+1.7673,25/08/2013,St Kilda,Gold Coast,14353,22,17,14,116,46,Docklands,Gold Coast,10,10,70,2.29,10,10,-46
+3.4999,30/08/2013,Sydney,Hawthorn,14356,23,16,4,100,-12,Stadium Australia,Hawthorn,17,10,112,1.3905,17,10,12
+2.8955,31/08/2013,Essendon,Richmond,14360,23,9,11,65,-39,M.C.G.,Richmond,15,14,104,1.518,15,14,39
+1.0438,31/08/2013,Geelong,Brisbane,14358,23,15,22,112,1,Kardinia Park,Brisbane,17,9,111,21.3957,17,9,-1
+2.0857,31/08/2013,Port Adelaide,Carlton,14359,23,15,13,103,-1,Football Park,Carlton,15,14,104,1.9169,15,14,1
+1.6839,31/08/2013,St Kilda,Fremantle,14357,23,16,16,112,71,Docklands,Fremantle,6,5,41,2.4507,6,5,-71
+1.9807,31/08/2013,West Coast,Adelaide,14361,23,5,13,43,-86,Subiaco,Adelaide,19,15,129,1.9898,19,15,86
+1.2223,13/09/2013,Geelong,Port Adelaide,14369,25,13,18,96,16,M.C.G.,Port Adelaide,12,8,80,5.4498,12,8,-16
+1.3994,14/09/2013,Sydney,Carlton,14370,25,13,8,86,24,Stadium Australia,Carlton,8,14,62,3.4941,8,14,-24
+1.4103,20/09/2013,Hawthorn,Geelong,14371,26,14,18,102,5,M.C.G.,Geelong,15,7,97,3.4199,15,7,-5
+1.305,21/09/2013,Fremantle,Sydney,14372,26,14,15,99,25,Subiaco,Sydney,11,8,74,4.249,11,8,-25
+1.6627,28/09/2013,Hawthorn,Fremantle,14373,27,11,11,77,15,M.C.G.,Fremantle,8,14,62,2.4929,8,14,-15
+2.6271,14/03/2014,Collingwood,Fremantle,14374,1,5,16,46,-70,Docklands,Fremantle,17,14,116,1.6076,17,14,70
+14.8324,15/03/2014,GWS,Sydney,14375,1,15,9,99,32,Sydney Showground,Sydney,9,13,67,1.0695,9,13,-32
+3.0241,15/03/2014,Gold Coast,Richmond,14376,1,12,15,87,18,Carrara,Richmond,10,9,69,1.486,10,9,-18
+1.7413,16/03/2014,Carlton,Port Adelaide,14377,1,12,15,87,-33,Docklands,Port Adelaide,18,12,120,2.3109,18,12,33
+1.3884,20/03/2014,Geelong,Adelaide,14378,1,18,11,119,38,Kardinia Park,Adelaide,12,9,81,3.5346,12,9,-38
+1.5361,21/03/2014,North Melbourne,Essendon,14379,1,9,6,60,-39,Docklands,Essendon,15,9,99,2.8439,15,9,39
+1.1186,22/03/2014,Hawthorn,Brisbane,14380,1,21,13,139,48,York Park,Brisbane,13,13,91,9.2697,13,13,-48
+2.3299,22/03/2014,St Kilda,Melbourne,14381,1,10,8,68,17,Docklands,Melbourne,6,15,51,1.7371,6,15,-17
+1.2239,23/03/2014,West Coast,Western Bulldogs,14382,1,21,8,134,65,Subiaco,Western Bulldogs,11,3,69,5.4258,11,3,-65
+1.5435,27/03/2014,Richmond,Carlton,14383,2,14,14,98,12,M.C.G.,Carlton,12,14,86,2.82,12,14,-12
+2.8688,28/03/2014,Essendon,Hawthorn,14384,2,12,14,86,-4,Docklands,Hawthorn,13,12,90,1.5314,13,12,4
+1.1001,29/03/2014,Fremantle,Gold Coast,14388,2,12,15,87,48,Subiaco,Gold Coast,5,9,39,11.0931,5,9,-48
+1.7841,29/03/2014,Port Adelaide,Adelaide,14386,2,19,13,127,54,Adelaide Oval,Adelaide,11,7,73,2.2579,11,7,-54
+1.8361,29/03/2014,St Kilda,GWS,14385,2,15,5,95,7,Docklands,GWS,13,10,88,2.183,13,10,-7
+1.4489,29/03/2014,Sydney,Collingwood,14387,2,10,9,69,-20,Stadium Australia,Collingwood,12,17,89,3.1756,12,17,20
+3.9248,30/03/2014,Brisbane,Geelong,14389,2,10,8,68,-25,Gabba,Geelong,13,15,93,1.3395,13,15,25
+11.9546,30/03/2014,Melbourne,West Coast,14390,2,4,6,30,-93,M.C.G.,West Coast,18,15,123,1.0897,18,15,93
+3.5263,30/03/2014,Western Bulldogs,North Melbourne,14391,2,8,6,54,-29,Docklands,North Melbourne,12,11,83,1.3914,12,11,29
+1.8142,4/04/2014,Hawthorn,Fremantle,14392,3,21,11,137,58,M.C.G.,Fremantle,11,13,79,2.2058,11,13,-58
+1.6431,5/04/2014,Collingwood,Geelong,14435,7,11,15,81,5,M.C.G.,Richmond,12,4,76,1.4231,12,4,-5
+1.9268,13/04/2014,Fremantle,Essendon,14409,4,18,5,113,53,Subiaco,Essendon,9,6,60,2.062,9,6,-53
+2.4101,13/04/2014,St Kilda,Adelaide,14408,4,7,8,50,-86,Docklands,Adelaide,20,16,136,1.6984,20,16,86
+1.4355,13/04/2014,Sydney,North Melbourne,14407,4,6,12,48,-43,S.C.G.,North Melbourne,13,13,91,3.2546,13,13,43
+5.0575,17/04/2014,Brisbane,Richmond,14410,5,9,9,63,-43,Gabba,Richmond,15,16,106,1.2419,15,16,43
+1.9889,19/04/2014,Collingwood,North Melbourne,14411,5,13,15,93,35,M.C.G.,North Melbourne,8,10,58,1.9974,8,10,-35
+1.1455,19/04/2014,Essendon,St Kilda,14413,5,9,11,65,-16,Docklands,St Kilda,11,15,81,7.7079,11,15,16
+2.5862,19/04/2014,Sydney,Fremantle,14412,5,13,14,92,17,S.C.G.,Fremantle,11,9,75,1.6263,11,9,-17
+1.963,19/04/2014,West Coast,Port Adelaide,14414,5,7,14,56,-14,Subiaco,Port Adelaide,10,10,70,2.0302,10,10,14
+1.1574,20/04/2014,Adelaide,GWS,14415,5,21,11,137,65,Adelaide Oval,GWS,10,12,72,7.2492,10,12,-65
+3.3621,20/04/2014,Melbourne,Gold Coast,14416,5,11,12,78,-8,M.C.G.,Gold Coast,11,20,86,1.414,11,20,8
+1.8434,20/04/2014,Western Bulldogs,Carlton,14417,5,13,13,91,-28,Docklands,Carlton,18,11,119,2.176,18,11,28
+2.7258,21/04/2014,Geelong,Hawthorn,14418,5,15,16,106,19,M.C.G.,Hawthorn,12,15,87,1.5721,12,15,-19
+1.5828,25/04/2014,Collingwood,Essendon,14419,6,12,11,83,23,M.C.G.,Essendon,8,12,60,2.7,8,12,-23
+1.2869,25/04/2014,Fremantle,North Melbourne,14421,6,8,13,61,-13,Subiaco,North Melbourne,10,14,74,4.4188,10,14,13
+1.408,25/04/2014,St Kilda,Brisbane,14420,6,11,13,79,-3,Wellington,Brisbane,12,10,82,3.3973,12,10,3
+2.1223,26/04/2014,Carlton,West Coast,14423,6,14,8,92,3,Docklands,West Coast,12,17,89,1.8849,12,17,-3
+1.2069,26/04/2014,Gold Coast,GWS,14422,6,20,14,134,40,Carrara,GWS,13,16,94,5.6937,13,16,-40
+8.23,26/04/2014,Melbourne,Sydney,14424,6,5,8,38,-31,M.C.G.,Sydney,9,15,69,1.1388,9,15,31
+2.2254,27/04/2014,Port Adelaide,Geelong,14427,6,16,11,107,40,Adelaide Oval,Geelong,9,13,67,1.7914,9,13,-40
+5.7669,27/04/2014,Richmond,Hawthorn,14426,6,7,10,52,-66,M.C.G.,Hawthorn,18,10,118,1.2032,18,10,66
+2.5653,27/04/2014,Western Bulldogs,Adelaide,14425,6,12,11,83,-9,Docklands,Adelaide,13,14,92,1.6364,13,14,9
+3.0367,15/05/2014,Adelaide,Collingwood,14443,9,10,16,76,21,Adelaide Oval,Collingwood,7,13,55,1.4839,7,13,-21
+3.4952,16/05/2014,Essendon,Sydney,14444,9,9,10,64,-50,Docklands,Sydney,18,6,114,1.396,18,6,50
+1.8305,17/05/2014,Fremantle,Geelong,14447,9,13,18,96,32,Subiaco,Geelong,9,10,64,2.1964,9,10,-32
+1.0752,17/05/2014,North Melbourne,Brisbane,14446,9,17,23,125,87,Docklands,Brisbane,6,2,38,13.9449,6,2,-87
+1.2142,17/05/2014,Richmond,Melbourne,14445,9,9,20,74,-17,M.C.G.,Melbourne,14,7,91,5.6637,14,7,17
+4.6375,18/05/2014,St Kilda,Gold Coast,14448,9,13,9,87,-38,Docklands,Gold Coast,19,11,125,1.2698,19,11,38
+1.6107,23/05/2014,Geelong,North Melbourne,14449,10,16,15,111,20,Kardinia Park,North Melbourne,13,13,91,2.6278,13,13,-20
+1.3095,24/05/2014,Collingwood,West Coast,14451,10,17,7,109,8,M.C.G.,West Coast,15,11,101,4.0794,15,11,-8
+3.6742,24/05/2014,GWS,Richmond,14450,10,5,11,41,-113,Sydney Showground,Richmond,24,10,154,1.3698,24,10,113
+1.6212,24/05/2014,Port Adelaide,Hawthorn,14452,10,15,10,100,14,Adelaide Oval,Hawthorn,13,8,86,2.5957,13,8,-14
+2.4639,25/05/2014,Carlton,Adelaide,14454,10,12,9,81,5,M.C.G.,Adelaide,10,16,76,1.6791,10,16,-5
+1.2336,25/05/2014,Gold Coast,Western Bulldogs,14453,10,18,11,119,45,Carrara,Western Bulldogs,10,14,74,5.2773,10,14,-45
+1.4197,29/05/2014,Sydney,Geelong,14455,11,22,16,148,110,S.C.G.,Geelong,5,8,38,3.3353,5,8,-110
+10.4119,30/05/2014,St Kilda,Collingwood,14456,11,8,6,54,-86,Docklands,Collingwood,21,14,140,1.104,21,14,86
+3.1245,31/05/2014,Brisbane,Carlton,14458,11,14,14,98,7,Gabba,Carlton,13,13,91,1.4574,13,13,-7
+1.7588,31/05/2014,Essendon,Richmond,14459,11,15,14,104,50,M.C.G.,Richmond,7,12,54,2.3023,7,12,-50
+7.14,31/05/2014,Melbourne,Port Adelaide,14457,11,11,9,75,-20,Traeger Park,Port Adelaide,14,11,95,1.1521,14,11,20
+1.2046,6/06/2014,Geelong,Carlton,14464,12,16,11,107,5,Docklands,Carlton,15,12,102,5.7306,15,12,-5
+5.2201,13/06/2014,Carlton,Hawthorn,14473,13,13,12,90,-28,M.C.G.,Hawthorn,18,10,118,1.235,18,10,28
+1.9653,14/06/2014,Adelaide,North Melbourne,14477,13,16,13,109,36,Adelaide Oval,North Melbourne,10,13,73,2.0174,10,13,-36
+1.4674,14/06/2014,Brisbane,GWS,14478,13,12,8,80,-45,Gabba,GWS,19,11,125,3.1029,19,11,45
+3.9707,14/06/2014,Richmond,Fremantle,14474,13,12,13,85,-20,M.C.G.,Fremantle,16,9,105,1.332,16,9,20
+1.4694,14/06/2014,Sydney,Port Adelaide,14475,13,14,14,98,4,S.C.G.,Port Adelaide,13,16,94,3.1045,13,16,-4
+1.976,14/06/2014,West Coast,Gold Coast,14476,13,15,13,103,3,Subiaco,Gold Coast,15,10,100,1.9898,15,10,-3
+1.1367,15/06/2014,Collingwood,Western Bulldogs,14480,13,15,8,98,-8,Docklands,Western Bulldogs,16,10,106,8.1272,16,10,8
+1.5126,15/06/2014,Essendon,Melbourne,14481,13,10,17,77,-1,M.C.G.,Melbourne,12,6,78,2.9304,12,6,1
+1.0475,15/06/2014,Geelong,St Kilda,14479,13,20,13,133,96,Kardinia Park,St Kilda,5,7,37,21.5243,5,7,-96
+4.8259,20/06/2014,Richmond,Sydney,14482,14,7,9,51,-11,M.C.G.,Sydney,9,8,62,1.2567,9,8,11
+2.5945,21/06/2014,Essendon,Adelaide,14486,14,15,11,101,9,Docklands,Adelaide,14,8,92,1.6222,14,8,-9
+1.0503,21/06/2014,Fremantle,Brisbane,14487,14,15,15,105,83,Subiaco,Brisbane,3,4,22,19.2143,3,4,-83
+2.8714,21/06/2014,Gold Coast,Geelong,14485,14,17,16,118,40,Carrara,Geelong,11,12,78,1.5333,11,12,-40
+1.4213,21/06/2014,Hawthorn,Collingwood,14484,14,17,13,115,29,M.C.G.,Collingwood,13,8,86,3.3206,13,8,-29
+1.1309,21/06/2014,Port Adelaide,Western Bulldogs,14483,14,19,14,128,72,Adelaide Oval,Western Bulldogs,8,8,56,8.5164,8,8,-72
+3.7075,22/06/2014,GWS,Carlton,14488,14,15,10,100,8,Sydney Showground,Carlton,14,8,92,1.3669,14,8,-8
+4.1929,22/06/2014,Melbourne,North Melbourne,14490,14,10,6,66,-41,M.C.G.,North Melbourne,15,17,107,1.3114,15,17,41
+6.4724,22/06/2014,St Kilda,West Coast,14489,14,10,10,70,-33,Docklands,West Coast,15,13,103,1.1783,15,13,33
+1.4105,27/06/2014,Geelong,Essendon,14491,15,13,11,89,9,Docklands,Essendon,11,14,80,3.4032,11,14,-9
+6.3745,28/06/2014,Brisbane,North Melbourne,14495,15,10,10,70,4,Gabba,North Melbourne,9,12,66,1.1833,9,12,-4
+1.2944,28/06/2014,Fremantle,West Coast,14494,15,13,10,88,7,Subiaco,West Coast,11,15,81,4.4473,11,15,-7
+1.1801,28/06/2014,Hawthorn,Gold Coast,14492,15,17,14,116,53,York Park,Gold Coast,10,3,63,6.3638,10,3,-53
+6.613,28/06/2014,St Kilda,Richmond,14493,15,11,7,73,-44,Docklands,Richmond,18,9,117,1.167,18,9,44
+1.0802,28/06/2014,Sydney,GWS,14496,15,15,16,106,46,S.C.G.,GWS,8,12,60,13.4005,8,12,-46
+3.2293,29/06/2014,Adelaide,Port Adelaide,14498,15,14,15,99,23,Adelaide Oval,Port Adelaide,10,16,76,1.4449,10,16,-23
+1.3324,29/06/2014,Collingwood,Carlton,14499,15,13,13,91,15,M.C.G.,Carlton,11,10,76,3.9978,11,10,-15
+1.8099,29/06/2014,Western Bulldogs,Melbourne,14497,15,14,7,91,6,Docklands,Melbourne,13,7,85,2.2223,13,7,-6
+3.0011,13/07/2014,Essendon,Collingwood,14516,17,16,7,103,64,M.C.G.,Collingwood,5,9,39,1.4951,5,9,-64
+1.0217,13/07/2014,Fremantle,GWS,14517,17,21,10,136,76,Subiaco,GWS,9,6,60,38.9426,9,6,-76
+2.698,13/07/2014,Richmond,Port Adelaide,14515,17,19,12,126,20,Docklands,Port Adelaide,16,10,106,1.5841,16,10,-20
+4.2891,18/07/2014,Carlton,North Melbourne,14518,18,16,13,109,23,Docklands,North Melbourne,13,8,86,1.3023,13,8,-23
+9.2409,19/07/2014,GWS,Geelong,14520,18,12,15,87,-7,Sydney Showground,Geelong,13,16,94,1.1225,13,16,7
+18.2633,19/07/2014,St Kilda,Fremantle,14519,18,17,16,118,58,Docklands,Fremantle,9,6,60,1.0529,9,6,-58
+1.0894,20/07/2014,Port Adelaide,Melbourne,14521,18,10,12,72,3,Adelaide Oval,Melbourne,10,9,69,12.0848,10,9,-3
+3.2497,20/07/2014,Western Bulldogs,Essendon,14522,18,14,10,94,-7,Docklands,Essendon,15,11,101,1.4375,15,11,7
+1.7411,25/07/2014,West Coast,Richmond,14523,18,6,6,42,-17,Subiaco,Richmond,8,11,59,2.3207,8,11,17
+2.5566,26/07/2014,Brisbane,Gold Coast,14524,18,16,14,110,54,Gabba,Gold Coast,8,8,56,1.6258,8,8,-54
+1.9356,26/07/2014,Hawthorn,Sydney,14525,18,15,14,104,10,M.C.G.,Sydney,13,16,94,2.0593,13,16,-10
+1.9275,27/07/2014,Collingwood,Adelaide,14526,18,12,10,82,-16,M.C.G.,Adelaide,14,14,98,2.0692,14,14,16
+1.1567,31/07/2014,Fremantle,Carlton,14527,19,12,11,83,5,Subiaco,Carlton,11,12,78,7.1599,11,12,-5
+2.4498,8/08/2014,Richmond,Essendon,14536,20,14,11,95,18,M.C.G.,Essendon,11,11,77,1.684,11,11,-18
+3.1466,15/08/2014,Carlton,Geelong,14545,21,11,10,76,-6,Docklands,Geelong,11,16,82,1.4642,11,16,6
+1.5344,16/08/2014,Adelaide,Richmond,14549,21,9,15,69,-10,Adelaide Oval,Richmond,10,19,79,2.8468,10,19,10
+1.1724,16/08/2014,Collingwood,Brisbane,14550,21,8,8,56,-67,M.C.G.,Brisbane,18,15,123,6.69,18,15,67
+1.6433,16/08/2014,Essendon,West Coast,14548,21,11,11,77,3,Docklands,West Coast,11,8,74,2.5343,11,8,-3
+3.821,16/08/2014,Gold Coast,Port Adelaide,14547,21,7,5,47,-9,Carrara,Port Adelaide,7,14,56,1.3496,7,14,9
+1.029,16/08/2014,Sydney,St Kilda,14546,21,19,13,127,71,S.C.G.,St Kilda,8,8,56,34.981,8,8,-71
+1.9178,17/08/2014,Fremantle,Hawthorn,14553,21,17,8,110,19,Subiaco,Hawthorn,13,13,91,2.0697,13,13,-19
+1.5099,17/08/2014,Melbourne,GWS,14552,21,3,16,34,-64,M.C.G.,GWS,15,8,98,2.9885,15,8,64
+1.3691,17/08/2014,North Melbourne,Western Bulldogs,14551,21,17,9,111,50,Docklands,Western Bulldogs,8,13,61,3.694,8,13,-50
+1.3096,22/08/2014,Port Adelaide,Carlton,14554,22,20,20,140,103,Adelaide Oval,Carlton,5,7,37,4.2152,5,7,-103
+1.1814,23/08/2014,Essendon,Gold Coast,14556,22,16,12,108,19,Docklands,Gold Coast,13,11,89,6.2189,13,11,-19
+2.4668,23/08/2014,GWS,Collingwood,14557,22,9,13,67,-8,Sydney Showground,Collingwood,11,9,75,1.667,11,9,8
+1.5369,23/08/2014,Hawthorn,Geelong,14558,22,14,10,94,23,M.C.G.,Geelong,11,5,71,2.8081,11,5,-23
+1.9908,23/08/2014,North Melbourne,Adelaide,14555,22,14,17,101,7,Bellerive Oval,Adelaide,13,16,94,1.9938,13,16,-7
+1.0863,23/08/2014,West Coast,Melbourne,14559,22,18,11,119,66,Subiaco,Melbourne,8,5,53,12.3498,8,5,-66
+3.868,24/08/2014,Brisbane,Fremantle,14560,22,6,12,48,-58,Gabba,Fremantle,15,16,106,1.3442,15,16,58
+1.11,24/08/2014,Richmond,St Kilda,14562,22,15,8,98,26,M.C.G.,St Kilda,10,12,72,9.9861,10,12,-26
+6.2573,24/08/2014,Western Bulldogs,Sydney,14561,22,9,13,67,-63,Docklands,Sydney,20,10,130,1.1847,20,10,63
+11.2468,29/08/2014,Collingwood,Hawthorn,14563,23,8,8,56,-65,M.C.G.,Hawthorn,18,13,121,1.0968,18,13,65
+3.5616,30/08/2014,Carlton,Essendon,14564,23,14,6,90,0,M.C.G.,Essendon,13,12,90,1.3884,13,12,0
+1.4584,30/08/2014,Fremantle,Port Adelaide,14565,23,16,9,105,8,Subiaco,Port Adelaide,14,13,97,3.0869,14,13,-8
+1.1058,30/08/2014,Geelong,Brisbane,14567,23,21,17,143,62,Kardinia Park,Brisbane,12,9,81,10.1377,12,9,-62
+1.1174,30/08/2014,North Melbourne,Melbourne,14568,23,19,9,123,30,Docklands,Melbourne,14,9,93,9.2873,14,9,-30
+1.4563,30/08/2014,Sydney,Richmond,14566,23,9,11,65,-3,Stadium Australia,Richmond,10,8,68,3.0736,10,8,3
+1.071,31/08/2014,Adelaide,St Kilda,14570,23,22,9,141,79,Adelaide Oval,St Kilda,9,8,62,14.2938,9,8,-79
+2.3916,31/08/2014,Gold Coast,West Coast,14569,23,15,9,99,-52,Carrara,West Coast,23,13,151,1.6982,23,13,52
+1.248,31/08/2014,Western Bulldogs,GWS,14571,23,15,19,109,-6,Docklands,GWS,18,7,115,4.646,18,7,6
+2.4453,13/09/2014,Fremantle,Port Adelaide,14577,25,15,15,105,22,Subiaco,Fremantle,11,17,83,1.6855,11,17,-22
+1.2163,19/09/2014,Sydney,North Melbourne,14578,26,19,22,136,71,Stadium Australia,North Melbourne,9,11,65,5.5894,9,11,-71
+1.3426,20/09/2014,Hawthorn,Port Adelaide,14579,26,15,7,97,3,M.C.G.,Port Adelaide,13,16,94,3.8832,13,16,-3
+2.6538,27/09/2014,Sydney,Hawthorn,14580,27,21,11,137,63,M.C.G.,Sydney,11,8,74,1.5945,11,8,-63
+4.5996,5/03/2015,Fremantle,Melbourne,14623,5,6,14,50,-68,M.C.G.,Fremantle,18,10,118,1.275,18,10,68
+1.5265,4/04/2015,Brisbane,Collingwood,14584,1,11,8,74,-12,Gabba,Collingwood,12,14,86,2.8959,12,14,12
+3.4776,4/04/2015,Melbourne,Gold Coast,14582,1,17,13,115,26,M.C.G.,Gold Coast,13,11,89,1.4019,13,11,-26
+1.33,4/04/2015,Sydney,Essendon,14583,1,10,12,72,12,Stadium Australia,Essendon,9,6,60,3.9842,9,6,-12
+2.6965,4/04/2015,Western Bulldogs,West Coast,14585,1,14,13,97,10,Docklands,West Coast,14,3,87,1.5921,14,3,-10
+1.4114,17/04/2015,Collingwood,St Kilda,14599,3,21,14,140,74,M.C.G.,St Kilda,10,6,66,3.4238,10,6,-74
+1.0834,18/04/2015,Adelaide,Melbourne,14601,3,12,8,80,25,Adelaide Oval,Melbourne,7,13,55,13.0013,7,13,-25
+3.2005,18/04/2015,Brisbane,Richmond,14604,3,8,10,58,-79,Gabba,Richmond,21,11,137,1.4577,21,11,79
+4.0605,18/04/2015,Carlton,Essendon,14600,3,11,18,84,-21,M.C.G.,Essendon,16,9,105,1.3282,16,9,21
+2.089,18/04/2015,North Melbourne,Port Adelaide,14603,3,16,9,105,-8,Docklands,Port Adelaide,17,11,113,1.9099,17,11,8
+1.1927,18/04/2015,Sydney,GWS,14602,3,16,15,111,21,S.C.G.,GWS,12,18,90,5.8827,12,18,-21
+1.1951,19/04/2015,Geelong,Gold Coast,14606,3,16,9,105,9,Kardinia Park,Gold Coast,13,18,96,5.8679,13,18,-9
+1.0691,19/04/2015,Hawthorn,Western Bulldogs,14605,3,19,13,127,70,York Park,Western Bulldogs,8,9,57,14.4139,8,9,-70
+4.5428,19/04/2015,West Coast,Fremantle,14607,3,12,9,81,-30,Subiaco,Fremantle,17,9,111,1.2762,17,9,30
+1.3396,24/04/2015,Richmond,Melbourne,14608,4,6,15,51,-32,M.C.G.,Melbourne,12,11,83,3.9618,12,11,32
+1.4549,25/04/2015,Essendon,Collingwood,14610,4,6,13,49,-20,M.C.G.,Collingwood,9,15,69,3.1597,9,15,20
+1.6387,25/04/2015,Fremantle,Sydney,14613,4,11,8,74,14,Subiaco,Sydney,8,12,60,2.5577,8,12,-14
+1.4291,25/04/2015,GWS,Gold Coast,14611,4,16,23,119,66,Manuka Oval,Gold Coast,7,11,53,3.3207,7,11,-66
+2.759,25/04/2015,Port Adelaide,Hawthorn,14612,4,15,9,99,8,Adelaide Oval,Hawthorn,13,13,91,1.5649,13,13,-8
+3.3622,25/04/2015,St Kilda,Carlton,14609,4,12,9,81,-40,Wellington,Carlton,18,13,121,1.4209,18,13,40
+2.784,26/04/2015,Brisbane,West Coast,14614,4,9,11,65,-53,Gabba,West Coast,17,16,118,1.5662,17,16,53
+2.4628,26/04/2015,Geelong,North Melbourne,14615,4,9,13,67,-16,Kardinia Park,North Melbourne,12,11,83,1.682,12,11,16
+4.0961,26/04/2015,Western Bulldogs,Adelaide,14616,4,18,17,125,57,Docklands,Adelaide,10,8,68,1.3268,10,8,-57
+1.187,9/05/2015,Melbourne,Sydney,14774,23,19,13,127,63,S.C.G.,Gold Coast,9,10,64,5.4376,9,10,-63
+3.2758,15/05/2015,Essendon,North Melbourne,14635,7,12,10,82,-11,Docklands,North Melbourne,13,15,93,1.4396,13,15,11
+1.2402,16/05/2015,Adelaide,St Kilda,14636,7,18,11,119,46,Adelaide Oval,St Kilda,10,13,73,5.1492,10,13,-46
+2.915,16/05/2015,Carlton,GWS,14638,7,9,3,57,-78,Docklands,GWS,19,21,135,1.5258,19,21,78
+1.0808,16/05/2015,Hawthorn,Melbourne,14637,7,24,11,155,105,M.C.G.,Melbourne,7,8,50,13.6185,7,8,-105
+1.2146,16/05/2015,Sydney,Geelong,14639,7,18,12,120,43,Stadium Australia,Geelong,11,11,77,5.6511,11,11,-43
+1.1119,16/05/2015,West Coast,Gold Coast,14640,7,21,9,135,92,Subiaco,Gold Coast,6,7,43,9.8797,6,7,-92
+5.3775,17/05/2015,Brisbane,Port Adelaide,14643,7,15,12,102,37,Gabba,Port Adelaide,8,17,65,1.2288,8,17,-37
+2.1523,17/05/2015,Richmond,Collingwood,14642,7,16,9,105,5,M.C.G.,Collingwood,15,10,100,1.8714,15,10,-5
+4.6284,17/05/2015,Western Bulldogs,Fremantle,14641,7,14,4,88,-13,Docklands,Fremantle,15,11,101,1.2786,15,11,13
+1.2395,22/05/2015,Geelong,Carlton,14644,8,22,8,140,77,Docklands,Carlton,9,9,63,5.1271,9,9,-77
+1.2007,23/05/2015,Fremantle,North Melbourne,14649,8,17,13,115,73,Subiaco,North Melbourne,5,12,42,5.9572,5,12,-73
+1.5882,23/05/2015,GWS,Adelaide,14646,8,16,12,108,24,Sydney Showground,Adelaide,12,12,84,2.6982,12,12,-24
+4.2872,23/05/2015,Gold Coast,Collingwood,14647,8,9,9,63,-69,Carrara,Collingwood,20,12,132,1.288,20,12,69
+1.5226,23/05/2015,Hawthorn,Sydney,14648,8,9,15,69,-4,M.C.G.,Sydney,11,7,73,2.911,11,7,4
+6.7724,23/05/2015,St Kilda,West Coast,14645,8,12,6,78,-53,Docklands,West Coast,20,11,131,1.1719,20,11,53
+1.2411,24/05/2015,Essendon,Brisbane,14650,8,21,10,136,58,Docklands,Brisbane,12,6,78,5.1146,12,6,-58
+3.569,24/05/2015,Melbourne,Western Bulldogs,14651,8,15,13,103,39,M.C.G.,Western Bulldogs,9,10,64,1.3876,9,10,-39
+1.4084,24/05/2015,Port Adelaide,Richmond,14652,8,5,13,43,-33,Adelaide Oval,Richmond,11,10,76,3.4044,11,10,33
+1.0412,29/05/2015,Sydney,Carlton,14653,9,19,8,122,60,S.C.G.,Carlton,9,8,62,23.9672,9,8,-60
+4.0238,30/05/2015,Adelaide,Fremantle,14658,9,7,15,57,-11,Adelaide Oval,Fremantle,10,8,68,1.329,10,8,11
+1.0303,30/05/2015,Hawthorn,Gold Coast,14654,9,14,9,93,53,York Park,Gold Coast,6,4,40,30.7448,6,4,-53
+2.9919,30/05/2015,Melbourne,Port Adelaide,14655,9,8,6,54,-61,Traeger Park,Port Adelaide,18,7,115,1.4969,18,7,61
+1.8807,30/05/2015,Richmond,Essendon,14657,9,10,12,72,13,M.C.G.,Essendon,8,11,59,2.1057,8,11,-13
+2.991,30/05/2015,Western Bulldogs,GWS,14656,9,16,17,113,45,Docklands,GWS,11,2,68,1.5027,11,2,-45
+1.6939,31/05/2015,Brisbane,St Kilda,14659,9,13,8,86,-22,Gabba,St Kilda,16,12,108,2.3858,16,12,22
+1.9217,31/05/2015,Collingwood,North Melbourne,14660,9,17,10,112,17,M.C.G.,North Melbourne,14,11,95,2.0798,14,11,-17
+1.5544,31/05/2015,West Coast,Geelong,14661,9,16,24,120,56,Subiaco,Geelong,10,4,64,2.7839,10,4,-56
+3.6677,6/06/2015,Carlton,Adelaide,14663,10,14,6,90,-9,M.C.G.,Adelaide,14,15,99,1.373,14,15,9
+2.093,6/06/2015,Essendon,Geelong,14665,10,7,11,53,-69,Docklands,Geelong,19,8,122,1.9058,19,8,69
+17.9572,6/06/2015,Gold Coast,Sydney,14664,10,5,11,41,-52,Carrara,Sydney,13,15,93,1.0561,13,15,52
+1.2894,6/06/2015,Port Adelaide,Western Bulldogs,14666,10,16,4,100,38,Adelaide Oval,Western Bulldogs,9,8,62,4.4109,9,8,-38
+14.499,13/06/2015,Gold Coast,Fremantle,14672,11,7,4,46,-7,Carrara,Fremantle,6,17,53,1.0721,6,17,7
+2.7884,13/06/2015,North Melbourne,Sydney,14674,11,10,15,75,-16,Docklands,Sydney,14,7,91,1.5553,14,7,16
+1.1816,13/06/2015,West Coast,Essendon,14673,11,14,12,96,50,Subiaco,Essendon,6,10,46,6.3244,6,10,-50
+1.7295,14/06/2015,Collingwood,GWS,14675,11,18,11,119,42,M.C.G.,GWS,11,11,77,2.3697,11,11,-42
+1.7321,14/06/2015,St Kilda,Melbourne,14676,11,12,13,85,2,Docklands,Melbourne,12,11,83,2.3534,12,11,-2
+3.2604,18/06/2015,Adelaide,Hawthorn,14677,12,12,13,85,-29,Adelaide Oval,Hawthorn,17,12,114,1.4375,17,12,29
+1.8815,19/06/2015,Richmond,West Coast,14678,12,10,10,70,-20,M.C.G.,West Coast,13,12,90,2.1273,13,12,20
+3.2508,20/06/2015,Carlton,Port Adelaide,14679,12,17,8,110,4,M.C.G.,Port Adelaide,16,10,106,1.427,16,10,-4
+3.259,20/06/2015,GWS,North Melbourne,14680,12,8,13,61,-56,Sydney Showground,North Melbourne,18,9,117,1.4352,18,9,56
+1.3066,20/06/2015,Western Bulldogs,Brisbane,14681,12,22,14,146,72,Docklands,Brisbane,11,8,74,4.1936,11,8,-72
+1.1351,21/06/2015,Geelong,Melbourne,14682,12,13,11,89,-24,Kardinia Park,Melbourne,18,5,113,8.1502,18,5,24
+1.3696,25/06/2015,Fremantle,Collingwood,14683,13,12,8,80,7,Subiaco,Collingwood,11,7,73,3.6733,11,7,-7
+1.3608,26/06/2015,Sydney,Richmond,14684,13,11,11,77,-18,S.C.G.,Richmond,14,11,95,3.785,14,11,18
+3.7899,27/06/2015,Brisbane,Adelaide,14686,13,10,9,69,-13,Gabba,Adelaide,11,16,82,1.3576,11,16,13
+1.0976,27/06/2015,Hawthorn,Essendon,14685,13,16,18,114,38,M.C.G.,Essendon,11,10,76,11.2442,11,10,-38
+2.7654,27/06/2015,St Kilda,Western Bulldogs,14687,13,7,14,56,-6,Docklands,Western Bulldogs,9,8,62,1.5594,9,8,6
+1.4575,28/06/2015,Carlton,Gold Coast,14688,13,14,19,103,34,Docklands,Gold Coast,9,15,69,3.146,9,15,-34
+1.2411,17/07/2015,North Melbourne,Essendon,14706,16,14,9,93,25,Docklands,Essendon,9,14,68,5.0853,9,14,-25
+2.5437,18/07/2015,Collingwood,West Coast,14709,16,7,14,56,-31,Docklands,West Coast,11,21,87,1.6405,11,21,31
+1.1483,18/07/2015,Fremantle,Carlton,14711,16,13,17,95,42,Subiaco,Carlton,8,5,53,7.419,8,5,-42
+1.6447,18/07/2015,Geelong,Western Bulldogs,14707,16,10,12,72,8,Kardinia Park,Western Bulldogs,9,10,64,2.5273,9,10,-8
+2.3932,18/07/2015,Gold Coast,GWS,14708,16,12,7,79,-15,Carrara,GWS,13,16,94,1.718,13,16,15
+2.5852,18/07/2015,Sydney,Hawthorn,14710,16,7,15,57,-89,Stadium Australia,Hawthorn,23,8,146,1.6287,23,8,89
+1.6834,19/07/2015,Melbourne,Brisbane,14712,16,8,12,60,24,M.C.G.,Brisbane,4,12,36,2.4553,4,12,-24
+1.6177,19/07/2015,Port Adelaide,Adelaide,14713,16,17,11,113,-3,Adelaide Oval,Adelaide,18,8,116,2.6048,18,8,3
+3.0018,19/07/2015,St Kilda,Richmond,14714,16,10,13,73,-16,Docklands,Richmond,13,11,89,1.4925,13,11,16
+27.0841,24/07/2015,Carlton,Hawthorn,14715,17,4,11,35,-138,Docklands,Hawthorn,27,11,173,1.0339,27,11,138
+1.2557,25/07/2015,Adelaide,Gold Coast,14717,17,19,11,125,45,Adelaide Oval,Gold Coast,12,8,80,4.8485,12,8,-45
+5.3909,25/07/2015,Brisbane,North Melbourne,14720,17,5,8,38,-72,Gabba,North Melbourne,16,14,110,1.225,16,14,72
+3.7987,25/07/2015,Essendon,Port Adelaide,14719,17,17,14,116,-13,Docklands,Port Adelaide,20,9,129,1.3499,20,9,13
+1.8466,25/07/2015,GWS,Geelong,14716,17,6,6,42,-27,Manuka Oval,Geelong,9,15,69,2.1708,9,15,27
+1.8859,25/07/2015,Richmond,Fremantle,14718,17,10,18,78,-4,M.C.G.,Fremantle,12,10,82,2.1248,12,10,4
+2.1266,26/07/2015,Melbourne,St Kilda,14722,17,6,10,46,-37,M.C.G.,St Kilda,12,11,83,1.8705,12,11,37
+1.3147,26/07/2015,West Coast,Sydney,14723,17,15,13,103,52,Subiaco,Sydney,7,9,51,4.141,7,9,-52
+2.3577,26/07/2015,Western Bulldogs,Collingwood,14721,17,15,14,104,18,Docklands,Collingwood,13,8,86,1.731,13,8,-18
+1.2072,31/07/2015,Hawthorn,Richmond,14724,18,7,11,53,-18,M.C.G.,Richmond,10,11,71,5.7442,10,11,18
+2.8437,8/08/2015,Brisbane,Gold Coast,14736,19,14,16,100,-14,Gabba,Gold Coast,17,12,114,1.5362,17,12,14
+1.2586,8/08/2015,Collingwood,Carlton,14734,19,16,9,105,18,M.C.G.,Carlton,13,9,87,4.8107,13,9,-18
+1.9617,8/08/2015,Geelong,Sydney,14737,19,14,11,95,32,Kardinia Park,Sydney,9,9,63,2.0332,9,9,-32
+2.5906,8/08/2015,West Coast,Hawthorn,14738,19,11,8,74,-14,Subiaco,Hawthorn,13,10,88,1.6271,13,10,14
+1.8303,8/08/2015,Western Bulldogs,Port Adelaide,14735,19,19,14,128,64,Docklands,Port Adelaide,9,10,64,2.198,9,10,-64
+1.3524,14/08/2015,Sydney,Collingwood,14742,20,13,9,87,11,S.C.G.,Collingwood,10,16,76,3.8163,10,16,-11
+1.6849,15/08/2015,Brisbane,Carlton,14746,20,20,11,131,64,Gabba,Carlton,9,13,67,2.4549,9,13,-64
+4.0328,15/08/2015,Essendon,Adelaide,14743,20,8,11,59,-112,Docklands,Adelaide,27,9,171,1.3276,27,9,112
+4.7919,15/08/2015,Geelong,Hawthorn,14747,20,12,13,85,-36,M.C.G.,Hawthorn,19,7,121,1.2611,19,7,36
+1.1985,15/08/2015,North Melbourne,St Kilda,14744,20,18,12,120,37,Bellerive Oval,St Kilda,11,17,83,6.0372,11,17,-37
+1.2991,15/08/2015,Port Adelaide,GWS,14745,20,16,15,111,21,Adelaide Oval,GWS,13,12,90,4.2334,13,12,-21
+1.6537,16/08/2015,Fremantle,West Coast,14750,20,11,14,80,-24,Subiaco,West Coast,15,14,104,2.5069,15,14,24
+1.122,16/08/2015,Richmond,Gold Coast,14748,20,22,6,138,83,M.C.G.,Gold Coast,8,7,55,9.1458,8,7,-83
+1.2515,16/08/2015,Western Bulldogs,Melbourne,14749,20,24,9,153,98,Docklands,Melbourne,8,7,55,4.8901,8,7,-98
+1.0905,21/08/2015,Hawthorn,Port Adelaide,14751,21,13,8,86,-22,Docklands,Port Adelaide,16,12,108,11.7086,16,12,22
+1.0835,22/08/2015,Adelaide,Brisbane,14756,21,20,11,131,87,Adelaide Oval,Brisbane,6,8,44,12.2279,6,8,-87
+3.2204,22/08/2015,Collingwood,Richmond,14752,21,7,14,56,-91,M.C.G.,Richmond,23,9,147,1.4499,23,9,91
+2.7193,22/08/2015,GWS,Sydney,14753,21,6,8,44,-89,Sydney Showground,Sydney,20,13,133,1.5803,20,13,89
+1.6323,22/08/2015,Gold Coast,Essendon,14754,21,14,13,97,2,Carrara,Essendon,14,11,95,2.5738,14,11,-2
+5.7112,22/08/2015,St Kilda,Geelong,14755,21,14,13,97,0,Docklands,Geelong,15,7,97,1.207,15,7,0
+3.4494,23/08/2015,Carlton,Melbourne,14758,21,12,6,78,23,M.C.G.,Melbourne,7,13,55,1.4128,7,13,-23
+1.787,23/08/2015,North Melbourne,Fremantle,14757,21,14,10,94,11,Docklands,Fremantle,12,11,83,2.2599,12,11,-11
+1.357,23/08/2015,West Coast,Western Bulldogs,14759,21,25,12,162,77,Subiaco,Western Bulldogs,13,7,85,3.797,13,7,-77
+1.4634,28/08/2015,Geelong,Collingwood,14760,22,9,8,62,-48,M.C.G.,Collingwood,17,8,110,3.175,17,8,48
+7.4316,29/08/2015,Essendon,Richmond,14764,22,7,5,47,-27,M.C.G.,Richmond,10,14,74,1.1564,10,14,27
+1.2353,29/08/2015,GWS,Carlton,14761,22,20,12,132,81,Sydney Showground,Carlton,7,9,51,5.2478,7,9,-81
+3.3761,29/08/2015,Gold Coast,Port Adelaide,14765,22,7,9,51,-37,Carrara,Port Adelaide,12,16,88,1.4119,12,16,37
+1.0351,29/08/2015,Hawthorn,Brisbane,14762,22,21,8,134,72,York Park,Brisbane,9,8,62,28.8417,9,8,-72
+1.7096,29/08/2015,North Melbourne,Western Bulldogs,14763,22,10,13,73,-23,Docklands,Western Bulldogs,14,12,96,2.4039,14,12,23
+2.1459,30/08/2015,Adelaide,West Coast,14766,22,19,12,126,57,Adelaide Oval,West Coast,10,9,69,1.8659,10,9,-57
+1.0856,30/08/2015,Fremantle,Melbourne,14768,22,17,6,108,54,Subiaco,Melbourne,8,6,54,12.1682,8,6,-54
+4.8062,30/08/2015,St Kilda,Sydney,14767,22,4,14,38,-97,Docklands,Sydney,20,15,135,1.2574,20,15,97
+1.2497,5/09/2015,Brisbane,Western Bulldogs,14628,6,13,9,87,-7,Docklands,St Kilda,14,10,94,14.6243,14,10,7
+19.1416,5/09/2015,Sydney,Gold Coast,14630,6,11,12,78,-41,Carrara,Adelaide,18,11,119,1.7428,18,11,41
+2.5661,13/09/2015,Richmond,North Melbourne,14781,24,15,15,105,17,M.C.G.,Richmond,14,4,88,1.6377,14,4,-17
+1.353,18/09/2015,Hawthorn,Adelaide,14782,25,21,9,135,74,M.C.G.,Adelaide,8,13,61,3.8386,8,13,-74
+2.3967,19/09/2015,Sydney,North Melbourne,14783,25,11,11,77,26,Stadium Australia,Sydney,7,9,51,1.7143,7,9,-26
+1.772,25/09/2015,Fremantle,Hawthorn,14784,26,15,4,94,27,Subiaco,Fremantle,10,7,67,2.2839,10,7,-27
+1.2278,26/09/2015,West Coast,North Melbourne,14785,26,10,20,80,25,Subiaco,North Melbourne,7,13,55,5.342,7,13,-25
+1.273,24/03/2016,Richmond,Carlton,14787,1,14,8,92,9,M.C.G.,Carlton,12,11,83,4.6336,12,11,-9
+1.1685,26/03/2016,Gold Coast,Essendon,14789,1,17,19,121,61,Carrara,Essendon,9,6,60,6.7164,9,6,-61
+2.5903,26/03/2016,Melbourne,GWS,14788,1,12,8,80,2,M.C.G.,GWS,10,18,78,1.6244,10,18,-2
+1.4975,26/03/2016,North Melbourne,Adelaide,14790,1,16,11,107,10,Docklands,Adelaide,14,13,97,2.979,14,13,-10
+1.6606,26/03/2016,Sydney,Collingwood,14791,1,18,25,133,80,S.C.G.,Collingwood,7,11,53,2.5042,7,11,-80
+1.1697,27/03/2016,Port Adelaide,St Kilda,14793,1,20,13,133,33,Adelaide Oval,St Kilda,15,10,100,6.8601,15,10,-33
+1.0598,27/03/2016,West Coast,Brisbane,14794,1,26,10,166,64,Subiaco,Brisbane,15,12,102,17.0863,15,12,-64
+1.6999,27/03/2016,Western Bulldogs,Fremantle,14792,1,15,13,103,65,Docklands,Fremantle,5,8,38,2.4221,5,8,-65
+2.1667,28/03/2016,Geelong,Hawthorn,14795,1,18,8,116,30,M.C.G.,Hawthorn,12,14,86,1.8246,12,14,-30
+1.263,15/04/2016,West Coast,Richmond,14814,4,18,17,125,68,Subiaco,Richmond,9,3,57,4.8028,9,3,-68
+2.0539,16/04/2016,Adelaide,Sydney,14819,4,16,17,113,10,Adelaide Oval,Sydney,15,13,103,1.9392,15,13,-10
+3.3739,16/04/2016,Brisbane,Gold Coast,14817,4,14,23,107,13,Gabba,Gold Coast,14,10,94,1.4087,14,10,-13
+10.2907,16/04/2016,Carlton,Western Bulldogs,14818,4,7,7,49,-36,Docklands,Western Bulldogs,13,7,85,1.1029,13,7,36
+19.1139,16/04/2016,Essendon,Geelong,14815,4,6,6,42,-30,M.C.G.,Geelong,9,18,72,1.0522,9,18,30
+1.1304,16/04/2016,Hawthorn,St Kilda,14816,4,13,9,87,3,York Park,St Kilda,13,6,84,8.8301,13,6,-3
+1.4509,17/04/2016,Collingwood,Melbourne,14821,4,9,13,67,-35,M.C.G.,Melbourne,16,6,102,3.1877,16,6,35
+1.9543,17/04/2016,GWS,Port Adelaide,14820,4,22,19,151,86,Manuka Oval,Port Adelaide,9,11,65,2.0492,9,11,-86
+1.3,17/04/2016,North Melbourne,Fremantle,14822,4,20,12,132,31,Docklands,Fremantle,14,17,101,4.3448,14,17,-31
+1.4823,22/04/2016,Hawthorn,Adelaide,14823,5,17,10,112,3,M.C.G.,Adelaide,17,7,109,3.0687,17,7,-3
+3.1205,23/04/2016,Gold Coast,North Melbourne,14825,5,11,15,81,-38,Carrara,North Melbourne,18,11,119,1.4647,18,11,38
+2.3285,23/04/2016,Port Adelaide,Geelong,14827,5,8,11,59,-48,Adelaide Oval,Geelong,16,11,107,1.7442,16,11,48
+1.6589,23/04/2016,Sydney,West Coast,14824,5,12,16,88,39,S.C.G.,West Coast,7,7,49,2.4885,7,7,-39
+1.149,23/04/2016,Western Bulldogs,Brisbane,14826,5,17,18,120,53,Docklands,Brisbane,10,7,67,7.1342,10,7,-53
+1.1717,24/04/2016,Fremantle,Carlton,14829,5,9,14,68,-4,Subiaco,Carlton,10,12,72,6.7036,10,12,4
+2.3407,24/04/2016,Melbourne,Richmond,14830,5,20,9,129,33,M.C.G.,Richmond,14,12,96,1.7394,14,12,-33
+2.5598,24/04/2016,St Kilda,GWS,14828,5,12,7,79,-47,Docklands,GWS,19,12,126,1.6337,19,12,47
+1.4007,25/04/2016,Collingwood,Essendon,14831,5,22,10,142,69,M.C.G.,Essendon,11,7,73,3.4741,11,7,-69
+1.8804,29/04/2016,North Melbourne,Western Bulldogs,14832,6,9,7,61,16,Docklands,Western Bulldogs,6,9,45,2.1291,6,9,-16
+1.0937,30/04/2016,Adelaide,Fremantle,14834,6,14,13,97,33,Adelaide Oval,Fremantle,8,16,64,11.0743,8,16,-33
+2.1967,30/04/2016,GWS,Hawthorn,14835,6,24,14,158,75,Sydney Showground,Hawthorn,12,11,83,1.8359,12,11,-75
+1.1227,30/04/2016,Geelong,Gold Coast,14836,6,25,18,168,120,Kardinia Park,Gold Coast,7,6,48,9.2593,7,6,-120
+1.7724,30/04/2016,Melbourne,St Kilda,14833,6,15,6,96,-39,Docklands,St Kilda,20,15,135,2.2732,20,15,39
+1.4349,30/04/2016,Richmond,Port Adelaide,14837,6,8,11,59,-35,M.C.G.,Port Adelaide,13,16,94,3.2764,13,16,35
+1.9741,13/05/2016,Adelaide,Geelong,14850,8,11,6,72,-26,Adelaide Oval,Geelong,13,20,98,1.9866,13,20,26
+1.8188,14/05/2016,Brisbane,Collingwood,14854,8,10,5,65,-78,Gabba,Collingwood,20,23,143,2.2077,20,23,78
+14.0235,14/05/2016,Essendon,North Melbourne,14851,8,8,12,60,-14,Docklands,North Melbourne,10,14,74,1.0756,10,14,14
+1.0827,14/05/2016,GWS,Gold Coast,14853,8,22,17,149,91,Sydney Showground,Gold Coast,9,4,58,12.604,9,4,-91
+1.1305,14/05/2016,Hawthorn,Fremantle,14852,8,17,14,116,41,York Park,Fremantle,11,9,75,8.5043,11,9,-41
+4.225,14/05/2016,Richmond,Sydney,14855,8,14,17,101,1,M.C.G.,Sydney,15,10,100,1.3084,15,10,-1
+2.5531,15/05/2016,Carlton,Port Adelaide,14856,8,14,9,93,2,Docklands,Port Adelaide,13,13,91,1.6371,13,13,-2
+3.3351,15/05/2016,Melbourne,Western Bulldogs,14857,8,12,10,82,-32,M.C.G.,Western Bulldogs,17,12,114,1.4212,17,12,32
+1.1945,15/05/2016,West Coast,St Kilda,14858,8,20,12,132,103,Subiaco,St Kilda,3,11,29,6.1395,3,11,-103
+1.902,20/05/2016,Hawthorn,Sydney,14859,9,7,13,55,-14,M.C.G.,Sydney,10,9,69,2.0943,10,9,14
+6.2656,21/05/2016,Collingwood,Geelong,14860,9,16,8,104,24,M.C.G.,Geelong,11,14,80,1.187,11,14,-24
+2.3507,21/05/2016,Fremantle,Richmond,14864,9,6,9,45,-38,Subiaco,Richmond,11,17,83,1.7232,11,17,38
+16.4933,21/05/2016,Gold Coast,Adelaide,14861,9,11,8,74,-75,Carrara,Adelaide,22,17,149,1.0596,22,17,75
+1.2685,21/05/2016,North Melbourne,Carlton,14863,9,17,11,113,67,Docklands,Carlton,6,10,46,4.7497,6,10,-67
+2.8467,21/05/2016,Port Adelaide,West Coast,14862,9,13,8,86,-8,Adelaide Oval,West Coast,14,10,94,1.5355,14,10,8
+1.4284,22/05/2016,GWS,Western Bulldogs,14866,9,15,8,98,25,Sydney Showground,Western Bulldogs,10,13,73,3.3141,10,13,-25
+1.1959,22/05/2016,Melbourne,Brisbane,14865,9,19,17,131,63,M.C.G.,Brisbane,9,14,68,6.0081,9,14,-63
+1.2019,22/05/2016,St Kilda,Essendon,14867,9,16,13,109,46,Docklands,Essendon,9,9,63,5.7597,9,9,-46
+1.4688,27/05/2016,Sydney,North Melbourne,14868,10,14,7,91,26,S.C.G.,North Melbourne,9,11,65,3.0967,9,11,-26
+2.0293,28/05/2016,Adelaide,GWS,14873,10,15,17,107,22,Adelaide Oval,GWS,13,7,85,1.959,13,7,-22
+10.9632,28/05/2016,Brisbane,Hawthorn,14869,10,13,9,87,-48,Gabba,Hawthorn,21,9,135,1.1046,21,9,48
+6.6881,28/05/2016,Essendon,Richmond,14872,10,10,7,67,-38,M.C.G.,Richmond,16,9,105,1.1667,16,9,38
+2.1004,28/05/2016,Melbourne,Port Adelaide,14870,10,10,16,76,-45,Traeger Park,Port Adelaide,18,13,121,1.9062,18,13,45
+1.3598,28/05/2016,St Kilda,Fremantle,14871,10,15,11,101,34,Docklands,Fremantle,10,7,67,3.753,10,7,-34
+9.3018,29/05/2016,Carlton,Geelong,14874,10,16,8,104,19,Docklands,Geelong,12,13,85,1.1176,12,13,-19
+3.0487,29/05/2016,Collingwood,Western Bulldogs,14875,10,7,11,53,-21,M.C.G.,Western Bulldogs,11,8,74,1.4785,11,8,21
+1.0448,29/05/2016,West Coast,Gold Coast,14876,10,20,12,132,77,Subiaco,Gold Coast,7,13,55,21.9084,7,13,-77
+1.6206,13/06/2016,Melbourne,Collingwood,14894,12,16,8,104,46,M.C.G.,Collingwood,8,10,58,2.5825,8,10,-46
+3.6325,17/06/2016,North Melbourne,Hawthorn,14895,13,11,18,84,-9,Docklands,Hawthorn,14,9,93,1.3767,14,9,9
+10.3152,18/06/2016,Brisbane,West Coast,14896,13,12,10,82,-49,Gabba,West Coast,20,11,131,1.109,20,11,49
+2.5534,18/06/2016,Fremantle,Port Adelaide,14897,13,12,14,86,17,Subiaco,Port Adelaide,9,15,69,1.6288,9,15,-17
+2.6212,18/06/2016,Western Bulldogs,Geelong,14898,13,5,13,43,-57,Docklands,Geelong,16,4,100,1.6088,16,4,57
+21.4683,19/06/2016,Essendon,GWS,14900,13,12,18,90,-27,Docklands,GWS,17,15,117,1.0486,17,15,27
+1.2718,19/06/2016,Sydney,Melbourne,14899,13,12,14,86,55,S.C.G.,Melbourne,4,7,31,4.5766,4,7,-55
+1.3104,23/06/2016,Adelaide,North Melbourne,14901,14,12,28,100,33,Adelaide Oval,North Melbourne,10,7,67,4.138,10,7,-33
+1.9105,24/06/2016,Collingwood,Fremantle,14902,14,12,13,85,48,M.C.G.,Fremantle,5,7,37,2.0907,5,7,-48
+1.0936,25/06/2016,GWS,Carlton,14904,14,18,19,127,62,Sydney Showground,Carlton,9,11,65,10.899,9,11,-62
+1.0745,25/06/2016,Richmond,Brisbane,14903,14,17,15,117,42,M.C.G.,Brisbane,11,9,75,13.5784,11,9,-42
+6.5259,25/06/2016,St Kilda,Geelong,14905,14,14,9,93,3,Docklands,Geelong,13,12,90,1.1785,13,12,-3
+1.0703,26/06/2016,Hawthorn,Gold Coast,14906,14,12,14,86,26,York Park,Gold Coast,8,12,60,14.1768,8,12,-26
+1.0406,30/06/2016,West Coast,Essendon,14907,15,20,10,130,78,Subiaco,Essendon,7,10,52,24.5016,7,10,-78
+2.319,7/07/2016,Port Adelaide,Hawthorn,14913,16,12,7,79,-22,Adelaide Oval,Hawthorn,15,11,101,1.7503,15,11,22
+1.6424,14/07/2016,Sydney,Hawthorn,14922,17,10,10,70,-5,S.C.G.,Hawthorn,11,9,75,2.5466,11,9,5
+3.7838,15/07/2016,Fremantle,Geelong,14923,17,9,7,61,-17,Subiaco,Geelong,11,12,78,1.3544,11,12,17
+1.2023,16/07/2016,Adelaide,Collingwood,14927,17,14,13,97,28,Adelaide Oval,Collingwood,10,9,69,5.922,10,9,-28
+1.4471,16/07/2016,North Melbourne,Port Adelaide,14925,17,10,17,77,-28,Docklands,Port Adelaide,16,9,105,3.1982,16,9,28
+1.1857,16/07/2016,Richmond,Essendon,14924,17,16,6,102,19,M.C.G.,Essendon,11,17,83,6.2736,11,17,-19
+1.12,16/07/2016,Western Bulldogs,Gold Coast,14926,17,15,17,107,48,Cazaly's Stadium,Gold Coast,8,11,59,9.3741,8,11,-48
+9.4326,17/07/2016,Brisbane,GWS,14930,17,9,13,67,-79,Gabba,GWS,22,14,146,1.1147,22,14,79
+6.62,17/07/2016,Carlton,West Coast,14928,17,11,9,75,-7,M.C.G.,West Coast,12,10,82,1.1696,12,10,7
+2.2625,17/07/2016,St Kilda,Melbourne,14929,17,15,20,110,36,Docklands,Melbourne,11,8,74,1.7728,11,8,-36
+2.0434,22/07/2016,Collingwood,North Melbourne,14931,18,12,12,84,-40,Docklands,North Melbourne,18,16,124,1.9569,18,16,40
+1.9681,23/07/2016,Geelong,Adelaide,14935,18,12,13,85,30,Kardinia Park,Adelaide,7,13,55,2.0241,7,13,-30
+1.9856,23/07/2016,Gold Coast,Fremantle,14933,18,16,9,105,24,Carrara,Fremantle,12,9,81,2.0065,12,9,-24
+1.0592,23/07/2016,Sydney,Carlton,14932,18,10,14,74,6,S.C.G.,Carlton,10,8,68,18.1048,10,8,-6
+1.1798,23/07/2016,West Coast,Melbourne,14934,18,10,6,66,6,Subiaco,Melbourne,8,12,60,6.6569,8,12,-6
+1.4062,23/07/2016,Western Bulldogs,St Kilda,14936,18,9,6,60,-15,Docklands,St Kilda,11,9,75,3.4292,11,9,15
+1.5092,24/07/2016,Essendon,Brisbane,14937,18,12,19,91,-37,Docklands,Brisbane,20,8,128,2.9452,20,8,37
+1.1876,24/07/2016,Hawthorn,Richmond,14938,18,16,18,114,70,M.C.G.,Richmond,5,14,44,6.3536,5,14,-70
+2.2537,24/07/2016,Port Adelaide,GWS,14939,18,9,6,60,-19,Adelaide Oval,GWS,11,13,79,1.7662,11,13,19
+1.254,29/07/2016,Geelong,Western Bulldogs,14940,19,16,7,103,25,Kardinia Park,Western Bulldogs,11,12,78,4.9212,11,12,-25
+7.1564,30/07/2016,Brisbane,Port Adelaide,14945,19,11,13,79,-94,Gabba,Port Adelaide,25,23,173,1.1625,25,23,94
+2.2075,30/07/2016,Collingwood,West Coast,14943,19,13,13,91,19,M.C.G.,West Coast,11,6,72,1.8281,11,6,-19
+1.1151,30/07/2016,GWS,Richmond,14941,19,17,9,111,88,Manuka Oval,Richmond,3,5,23,9.1373,3,5,-88
+1.1216,30/07/2016,Hawthorn,Carlton,14942,19,10,14,74,19,York Park,Carlton,7,13,55,9.1862,7,13,-19
+1.5201,30/07/2016,North Melbourne,St Kilda,14944,19,12,13,85,23,Docklands,St Kilda,8,14,62,2.9024,8,14,-23
+1.0275,31/07/2016,Adelaide,Essendon,14948,19,22,11,143,82,Adelaide Oval,Essendon,9,7,61,34.9267,9,7,-82
+5.7722,31/07/2016,Fremantle,Sydney,14947,19,7,5,47,-90,Subiaco,Sydney,21,11,137,1.2034,21,11,90
+1.2047,31/07/2016,Melbourne,Gold Coast,14946,19,9,12,66,2,M.C.G.,Gold Coast,9,10,64,5.8982,9,10,-2
+3.5036,13/08/2016,Brisbane,Carlton,14959,21,15,9,99,4,Gabba,Carlton,13,17,95,1.4072,13,17,-4
+1.3028,13/08/2016,GWS,West Coast,14961,21,14,12,96,-1,Sydney Showground,West Coast,14,13,97,4.2629,14,13,1
+1.2731,13/08/2016,Hawthorn,North Melbourne,14960,21,14,12,96,39,M.C.G.,North Melbourne,8,9,57,4.6875,8,9,-39
+1.5011,13/08/2016,Port Adelaide,Melbourne,14963,21,8,6,54,-40,Adelaide Oval,Melbourne,13,16,94,3.0004,13,16,40
+3.8965,13/08/2016,St Kilda,Sydney,14962,21,11,10,76,-70,Docklands,Sydney,23,8,146,1.3513,23,8,70
+3.3716,14/08/2016,Essendon,Gold Coast,14964,21,11,9,75,6,Docklands,Gold Coast,9,15,69,1.4243,9,15,-6
+9.9404,14/08/2016,Fremantle,Adelaide,14966,21,11,4,70,-72,Subiaco,Adelaide,21,16,142,1.1146,21,16,72
+7.2655,14/08/2016,Richmond,Geelong,14965,21,12,6,78,-4,M.C.G.,Geelong,10,22,82,1.1612,10,22,4
+1.8475,19/08/2016,West Coast,Hawthorn,14967,22,13,14,92,25,Subiaco,Hawthorn,10,7,67,2.1718,10,7,-25
+1.249,20/08/2016,Collingwood,Gold Coast,14971,22,16,22,118,71,Docklands,Gold Coast,6,11,47,5.0127,6,11,-71
+1.0301,20/08/2016,GWS,Fremantle,14970,22,19,15,129,92,Sydney Showground,Fremantle,5,7,37,32.3923,5,7,-92
+4.1527,20/08/2016,North Melbourne,Sydney,14968,22,10,16,76,-9,Bellerive Oval,Sydney,12,13,85,1.3136,12,13,9
+10.9389,20/08/2016,Port Adelaide,Adelaide,14972,22,14,10,94,-15,Adelaide Oval,Adelaide,15,19,109,1.0935,15,19,15
+2.3773,20/08/2016,Richmond,St Kilda,14969,22,6,10,46,-9,M.C.G.,St Kilda,7,13,55,1.7249,7,13,9
+18.9545,21/08/2016,Brisbane,Geelong,14974,22,10,9,69,-60,Gabba,Geelong,19,15,129,1.0505,19,15,60
+4.963,21/08/2016,Carlton,Melbourne,14973,22,11,12,78,20,M.C.G.,Melbourne,7,16,58,1.2549,7,16,-20
+8.8765,21/08/2016,Essendon,Western Bulldogs,14975,22,7,11,53,-40,Docklands,Western Bulldogs,14,9,93,1.1215,14,9,40
+1.2771,26/08/2016,Adelaide,West Coast,14976,23,10,11,71,-29,Adelaide Oval,West Coast,14,16,100,4.5504,14,16,29
+3.5193,27/08/2016,Essendon,Carlton,14978,23,15,13,103,24,M.C.G.,Carlton,10,19,79,1.3931,10,19,-24
+1.1898,27/08/2016,Geelong,Melbourne,14977,23,24,11,155,111,Kardinia Park,Melbourne,6,8,44,6.1553,6,8,-111
+3.0127,27/08/2016,Gold Coast,Port Adelaide,14981,23,9,12,66,-23,Carrara,Port Adelaide,13,11,89,1.4923,13,11,23
+2.945,27/08/2016,North Melbourne,GWS,14980,23,9,9,63,-37,Docklands,GWS,14,16,100,1.507,14,16,37
+1.0637,27/08/2016,Sydney,Richmond,14979,23,25,14,164,113,S.C.G.,Richmond,7,9,51,15.1828,7,9,-113
+3.0368,28/08/2016,Fremantle,Western Bulldogs,14984,23,10,9,69,20,Subiaco,Western Bulldogs,6,13,49,1.4892,6,13,-20
+1.3223,28/08/2016,Hawthorn,Collingwood,14983,23,17,10,112,1,M.C.G.,Collingwood,17,9,111,4.0739,17,9,-1
+1.0879,28/08/2016,St Kilda,Brisbane,14982,23,25,11,161,58,Docklands,Brisbane,15,13,103,12.3379,15,13,-58
+1.7006,9/09/2016,Geelong,Hawthorn,14986,24,12,13,85,2,M.C.G.,Hawthorn,12,11,83,2.4226,12,11,-2
+2.6262,16/09/2016,Hawthorn,Western Bulldogs,14989,25,16,11,107,23,M.C.G.,Hawthorn,12,12,84,1.6087,12,12,-23
+1.6122,17/09/2016,Sydney,Adelaide,14990,25,18,10,118,36,S.C.G.,Adelaide,12,10,82,2.6219,12,10,-36
+2.3156,23/09/2016,Geelong,Sydney,14991,26,15,7,97,37,M.C.G.,Geelong,8,12,60,1.7584,8,12,-37
+3.2707,24/09/2016,GWS,Western Bulldogs,14992,26,13,11,89,6,Sydney Showground,GWS,12,11,83,1.4366,12,11,-6
+3.1869,23/03/2017,Carlton,Richmond,14994,1,14,5,89,-43,M.C.G.,Richmond,20,12,132,1.4553,20,12,43
+3.2074,24/03/2017,Collingwood,Western Bulldogs,14995,1,12,14,86,-14,M.C.G.,Western Bulldogs,15,10,100,1.4509,15,10,14
+3.3118,25/03/2017,Essendon,Hawthorn,14998,1,17,14,116,25,M.C.G.,Hawthorn,12,19,91,1.4299,12,19,-25
+1.3265,25/03/2017,Gold Coast,Brisbane,14999,1,14,12,96,-2,Carrara,Brisbane,15,8,98,4.1183,15,8,2
+1.695,25/03/2017,St Kilda,Melbourne,14996,1,13,12,90,-30,Docklands,Melbourne,18,12,120,2.44,18,12,30
+1.3019,25/03/2017,Sydney,Port Adelaide,14997,1,12,10,82,-28,S.C.G.,Port Adelaide,17,8,110,4.3379,17,8,28
+2.3823,26/03/2017,Adelaide,GWS,15001,1,22,15,147,56,Adelaide Oval,GWS,14,7,91,1.7153,14,7,-56
+2.327,26/03/2017,Fremantle,Geelong,15002,1,10,13,73,-42,Subiaco,Geelong,18,7,115,1.7558,18,7,42
+3.6543,26/03/2017,North Melbourne,West Coast,15000,1,13,15,93,-43,Docklands,West Coast,21,10,136,1.375,21,10,43
+2.2977,30/03/2017,Richmond,Collingwood,15003,2,14,15,99,19,M.C.G.,Collingwood,11,14,80,1.7684,11,14,-19
+1.4554,31/03/2017,Western Bulldogs,Sydney,15004,2,16,14,110,23,Docklands,Sydney,13,9,87,3.1897,13,9,-23
+1.4366,13/04/2017,West Coast,Sydney,15021,4,13,13,91,26,Subiaco,Sydney,10,5,65,3.266,10,5,-26
+3.8398,14/04/2017,North Melbourne,Western Bulldogs,15022,4,12,14,86,-3,Docklands,Western Bulldogs,12,17,89,1.3512,12,17,3
+1.1919,15/04/2017,Adelaide,Essendon,15026,4,24,9,153,65,Adelaide Oval,Essendon,13,10,88,6.2183,13,10,-65
+2.2193,15/04/2017,Carlton,Gold Coast,15025,4,12,10,82,-26,Docklands,Gold Coast,17,6,108,1.8096,17,6,26
+1.4097,15/04/2017,GWS,Port Adelaide,15024,4,16,16,112,31,Manuka Oval,Port Adelaide,11,15,81,3.398,11,15,-31
+1.4299,15/04/2017,Melbourne,Fremantle,15023,4,15,14,104,-2,M.C.G.,Fremantle,16,10,106,3.3312,16,10,2
+3.5121,16/04/2017,Brisbane,Richmond,15028,4,10,7,67,-52,Gabba,Richmond,17,17,119,1.3952,17,17,52
+1.6971,16/04/2017,Collingwood,St Kilda,15027,4,7,13,55,-14,Docklands,St Kilda,9,15,69,2.4298,9,15,14
+2.9834,17/04/2017,Hawthorn,Geelong,15029,4,6,12,48,-86,M.C.G.,Geelong,20,14,134,1.5028,20,14,86
+1.0947,21/04/2017,Port Adelaide,Carlton,15030,5,20,17,137,90,Adelaide Oval,Carlton,6,11,47,11.2824,6,11,-90
+1.688,22/04/2017,Fremantle,North Melbourne,15034,5,9,13,67,5,Subiaco,North Melbourne,9,8,62,2.4396,9,8,-5
+4.5504,22/04/2017,Gold Coast,Adelaide,15032,5,13,8,86,-67,Carrara,Adelaide,23,15,153,1.2758,23,15,67
+2.6512,22/04/2017,Sydney,GWS,15033,5,9,9,63,-42,S.C.G.,GWS,15,15,105,1.6037,15,15,42
+1.0837,22/04/2017,Western Bulldogs,Brisbane,15031,5,17,20,122,32,Docklands,Brisbane,14,6,90,13.3653,14,6,-32
+2.946,23/04/2017,Hawthorn,West Coast,15036,5,19,11,125,50,M.C.G.,West Coast,11,9,75,1.5112,11,9,-50
+2.7718,23/04/2017,St Kilda,Geelong,15035,5,13,10,88,-38,Docklands,Geelong,19,12,126,1.5619,19,12,38
+1.7669,24/04/2017,Richmond,Melbourne,15037,5,12,16,88,13,M.C.G.,Melbourne,11,9,75,2.2878,11,9,-13
+2.6723,25/04/2017,Essendon,Collingwood,15038,5,15,10,100,18,M.C.G.,Collingwood,11,16,82,1.5924,11,16,-18
+1.3507,28/04/2017,GWS,Western Bulldogs,15039,6,11,9,75,2,Manuka Oval,Western Bulldogs,9,19,73,3.7927,9,19,-2
+6.257,29/04/2017,Brisbane,Port Adelaide,15042,6,10,7,67,-83,Gabba,Port Adelaide,22,18,150,1.184,22,18,83
+3.8982,29/04/2017,Carlton,Sydney,15041,6,15,7,97,19,M.C.G.,Sydney,11,12,78,1.3498,11,12,-19
+1.9259,29/04/2017,Hawthorn,St Kilda,15040,6,8,7,55,-75,York Park,St Kilda,19,16,130,2.0604,19,16,75
+1.4837,29/04/2017,North Melbourne,Gold Coast,15043,6,16,11,107,13,Docklands,Gold Coast,14,10,94,3.0551,14,10,-13
+1.3593,29/04/2017,West Coast,Fremantle,15044,6,16,7,103,41,Subiaco,Fremantle,9,8,62,3.7338,9,8,-41
+1.1964,30/04/2017,Adelaide,Richmond,15047,6,21,14,140,76,Adelaide Oval,Richmond,10,4,64,6.0676,10,4,-76
+2.0958,30/04/2017,Essendon,Melbourne,15045,6,10,14,74,-38,Docklands,Melbourne,17,10,112,1.9057,17,10,38
+1.323,30/04/2017,Geelong,Collingwood,15046,6,11,12,78,-29,M.C.G.,Collingwood,15,17,107,4.0789,15,17,29
+2.8862,5/05/2017,St Kilda,GWS,15048,7,16,12,108,23,Docklands,GWS,12,13,85,1.5313,12,13,-23
+1.1549,13/05/2017,Adelaide,Melbourne,15062,8,9,12,66,-41,Adelaide Oval,Melbourne,17,5,107,7.4577,17,5,41
+3.6198,13/05/2017,Essendon,Geelong,15061,8,17,8,110,17,M.C.G.,Geelong,13,15,93,1.3622,13,15,-17
+1.2461,13/05/2017,GWS,Collingwood,15060,8,15,12,102,3,Sydney Showground,Collingwood,15,9,99,4.9629,15,9,-3
+1.1501,13/05/2017,Hawthorn,Brisbane,15058,8,17,11,113,38,York Park,Brisbane,11,9,75,7.6141,11,9,-38
+1.3439,13/05/2017,St Kilda,Carlton,15059,8,12,13,85,19,Docklands,Carlton,10,6,66,3.9237,10,6,-19
+3.6576,14/05/2017,Gold Coast,Port Adelaide,15063,8,4,14,38,-72,Jiangwan Stadium,Port Adelaide,16,14,110,1.3746,16,14,72
+1.7938,14/05/2017,North Melbourne,Sydney,15065,8,11,12,78,-42,Docklands,Sydney,18,12,120,2.2516,18,12,42
+1.4892,14/05/2017,Richmond,Fremantle,15064,8,10,10,70,-2,M.C.G.,Fremantle,10,12,72,3.0369,10,12,2
+2.0041,19/05/2017,Geelong,Western Bulldogs,15066,9,16,8,104,23,Kardinia Park,Western Bulldogs,12,9,81,1.9785,12,9,-23
+13.2392,20/05/2017,Brisbane,Adelaide,15069,9,7,18,60,-80,Gabba,Adelaide,21,14,140,1.0725,21,14,80
+1.5234,20/05/2017,Collingwood,Hawthorn,15070,9,13,12,90,18,M.C.G.,Hawthorn,11,6,72,2.8792,11,6,-18
+1.2941,20/05/2017,GWS,Richmond,15068,9,11,12,78,3,Sydney Showground,Richmond,10,15,75,4.3629,10,15,-3
+2.0953,20/05/2017,St Kilda,Sydney,15067,9,10,8,68,-50,Docklands,Sydney,18,10,118,1.9048,18,10,50
+2.4966,21/05/2017,Essendon,West Coast,15071,9,19,11,125,61,Docklands,West Coast,8,16,64,1.6669,8,16,-61
+1.3753,21/05/2017,Fremantle,Carlton,15073,9,13,8,86,35,Subiaco,Carlton,7,9,51,3.6165,7,9,-35
+1.6718,21/05/2017,Melbourne,North Melbourne,15072,9,13,12,90,-14,M.C.G.,North Melbourne,15,14,104,2.4728,15,14,14
+1.7555,25/05/2017,Geelong,Port Adelaide,15074,10,11,15,81,2,Kardinia Park,Port Adelaide,11,13,79,2.3161,11,13,-2
+1.1762,26/05/2017,Sydney,Hawthorn,15075,10,11,9,75,-6,S.C.G.,Hawthorn,12,9,81,6.5384,12,9,6
+1.1961,27/05/2017,Adelaide,Fremantle,15079,10,20,23,143,100,Adelaide Oval,Fremantle,6,7,43,6.0998,6,7,-100
+1.4228,27/05/2017,Melbourne,Gold Coast,15077,10,18,14,122,35,Traeger Park,Gold Coast,13,9,87,3.3232,13,9,-35
+1.864,27/05/2017,Richmond,Essendon,15078,10,11,15,81,15,M.C.G.,Essendon,10,6,66,2.1475,10,6,-15
+1.5103,27/05/2017,Western Bulldogs,St Kilda,15076,10,13,12,90,40,Docklands,St Kilda,7,8,50,2.9776,7,8,-40
+3.72,28/05/2017,Carlton,North Melbourne,15081,10,15,6,96,-17,Docklands,North Melbourne,17,11,113,1.3679,17,11,17
+1.0891,28/05/2017,Collingwood,Brisbane,15080,10,18,21,129,45,M.C.G.,Brisbane,13,6,84,12.2607,13,6,-45
+1.5741,28/05/2017,West Coast,GWS,15082,10,14,6,90,-8,Subiaco,GWS,14,14,98,2.7008,14,14,8
+2.3106,15/06/2017,West Coast,Geelong,15096,13,11,17,83,13,Subiaco,Geelong,10,10,70,1.7589,10,10,-13
+2.0898,16/06/2017,North Melbourne,St Kilda,15097,13,10,12,72,-17,Docklands,St Kilda,12,17,89,1.9074,12,17,17
+1.4096,17/06/2017,Gold Coast,Carlton,15100,13,11,7,73,-10,Carrara,Carlton,12,11,83,3.4399,12,11,10
+1.0691,17/06/2017,Port Adelaide,Brisbane,15099,13,18,13,121,40,Adelaide Oval,Brisbane,12,9,81,15.0364,12,9,-40
+2.052,17/06/2017,Richmond,Sydney,15098,13,10,11,71,-9,M.C.G.,Sydney,12,8,80,1.9448,12,8,9
+1.686,18/06/2017,Western Bulldogs,Melbourne,15101,13,8,8,56,-57,Docklands,Melbourne,17,11,113,2.4531,17,11,57
+1.1214,22/06/2017,Adelaide,Hawthorn,15102,14,12,10,82,-14,Adelaide Oval,Hawthorn,14,12,96,8.9584,14,12,14
+1.4299,23/06/2017,Sydney,Essendon,15103,14,11,20,86,1,S.C.G.,Essendon,12,13,85,3.3417,12,13,-1
+4.6612,24/06/2017,Brisbane,GWS,15105,14,12,14,86,-60,Gabba,GWS,22,14,146,1.266,22,14,60
+2.1025,24/06/2017,Collingwood,Port Adelaide,15104,14,9,8,62,-31,M.C.G.,Port Adelaide,13,15,93,1.8959,13,15,31
+1.8047,24/06/2017,West Coast,Melbourne,15107,14,14,12,96,-3,Subiaco,Melbourne,15,9,99,2.2379,15,9,3
+1.6414,24/06/2017,Western Bulldogs,North Melbourne,15106,14,15,17,107,1,Docklands,North Melbourne,16,10,106,2.5497,16,10,-1
+1.0776,25/06/2017,Geelong,Fremantle,15108,14,10,14,74,2,Kardinia Park,Fremantle,11,6,72,14.0619,11,6,-2
+1.4622,25/06/2017,Richmond,Carlton,15109,14,11,18,84,26,M.C.G.,Carlton,8,10,58,3.1731,8,10,-26
+1.2361,25/06/2017,St Kilda,Gold Coast,15110,14,14,19,103,31,Docklands,Gold Coast,10,12,72,5.2014,10,12,-31
+2.2003,30/06/2017,Melbourne,Sydney,15111,15,7,8,50,-35,M.C.G.,Sydney,11,19,85,1.8225,11,19,35
+1.3863,7/07/2017,Adelaide,Western Bulldogs,15120,16,16,8,104,59,Adelaide Oval,Western Bulldogs,5,15,45,3.6166,5,15,-59
+1.8794,14/07/2017,St Kilda,Essendon,15129,17,7,15,57,-61,Docklands,Essendon,17,16,118,2.1284,17,16,61
+2.2229,15/07/2017,GWS,Sydney,15133,17,12,11,83,-13,Sydney Showground,Sydney,14,12,96,1.8081,14,12,13
+1.4346,15/07/2017,Geelong,Hawthorn,15130,17,13,10,88,3,M.C.G.,Hawthorn,12,13,85,3.305,12,13,-3
+1.8854,15/07/2017,Gold Coast,Collingwood,15132,17,13,10,88,-15,Carrara,Collingwood,15,13,103,2.1015,15,13,15
+3.6423,15/07/2017,Melbourne,Adelaide,15134,17,10,10,70,-46,Marrara Oval,Adelaide,17,14,116,1.3748,17,14,46
+1.1748,15/07/2017,Port Adelaide,North Melbourne,15131,17,19,13,127,70,Adelaide Oval,North Melbourne,8,9,57,6.7664,8,9,-70
+2.4898,16/07/2017,Carlton,Western Bulldogs,15136,17,9,8,62,-20,M.C.G.,Western Bulldogs,12,10,82,1.6597,12,10,20
+3.3448,16/07/2017,Fremantle,West Coast,15137,17,5,14,44,-30,Subiaco,West Coast,11,8,74,1.425,11,8,30
+1.1725,16/07/2017,Richmond,Brisbane,15135,17,16,16,112,31,Docklands,Brisbane,12,9,81,6.7992,12,9,-31
+1.601,21/07/2017,Adelaide,Geelong,15138,18,13,13,91,21,Adelaide Oval,Geelong,10,10,70,2.6569,10,10,-21
+1.2101,22/07/2017,Essendon,North Melbourne,15139,18,20,12,132,27,Docklands,North Melbourne,16,9,105,5.8363,16,9,-27
+2.1523,22/07/2017,Fremantle,Hawthorn,15143,18,7,6,48,-52,Subiaco,Hawthorn,15,10,100,1.8541,15,10,52
+2.4065,22/07/2017,Melbourne,Port Adelaide,15140,18,13,10,88,23,M.C.G.,Port Adelaide,9,11,65,1.7159,9,11,-23
+1.2537,22/07/2017,Sydney,St Kilda,15142,18,14,17,101,42,S.C.G.,St Kilda,9,5,59,4.9483,9,5,-42
+1.3238,22/07/2017,Western Bulldogs,Gold Coast,15141,18,16,14,110,54,Cazaly's Stadium,Gold Coast,8,8,56,4.0931,8,8,-54
+2.0776,23/07/2017,Brisbane,Carlton,15146,18,17,10,112,30,Gabba,Carlton,11,16,82,1.9154,11,16,-30
+2.0243,23/07/2017,Collingwood,West Coast,15145,18,13,15,93,8,Docklands,West Coast,13,7,85,1.9894,13,7,-8
+2.3792,23/07/2017,Richmond,GWS,15144,18,9,10,64,19,M.C.G.,GWS,6,9,45,1.7011,6,9,-19
+2.9901,28/07/2017,Hawthorn,Sydney,15147,19,10,12,72,6,M.C.G.,Sydney,9,12,66,1.502,9,12,-6
+4.1766,29/07/2017,Carlton,Geelong,15151,19,8,10,58,-65,Docklands,Geelong,18,15,123,1.3083,18,15,65
+1.1183,29/07/2017,GWS,Fremantle,15149,19,13,20,98,12,Sydney Showground,Fremantle,13,8,86,9.6269,13,8,-12
+3.2035,29/07/2017,Gold Coast,Richmond,15152,19,10,5,65,-33,Carrara,Richmond,14,14,98,1.4493,14,14,33
+3.3302,29/07/2017,North Melbourne,Melbourne,15148,19,11,10,76,4,Bellerive Oval,Melbourne,10,12,72,1.4219,10,12,-4
+1.2044,29/07/2017,Port Adelaide,St Kilda,15150,19,9,9,63,2,Adelaide Oval,St Kilda,8,13,61,5.8564,8,13,-2
+2.7957,30/07/2017,Collingwood,Adelaide,15154,19,15,13,103,0,M.C.G.,Adelaide,16,7,103,1.5483,16,7,0
+1.0912,30/07/2017,West Coast,Brisbane,15155,19,17,11,113,68,Subiaco,Brisbane,6,9,45,11.681,6,9,-68
+2.3539,30/07/2017,Western Bulldogs,Essendon,15153,19,19,13,127,30,Docklands,Essendon,13,19,97,1.7324,13,19,-30
+1.3845,13/08/2017,Hawthorn,North Melbourne,15172,21,18,8,116,27,York Park,North Melbourne,14,5,89,3.6056,14,5,-27
+1.6104,13/08/2017,Melbourne,St Kilda,15171,21,14,12,96,24,M.C.G.,St Kilda,10,12,72,2.62,10,12,-24
+1.3703,13/08/2017,Port Adelaide,Collingwood,15173,21,14,14,98,27,Adelaide Oval,Collingwood,10,11,71,3.7101,10,11,-27
+1.671,18/08/2017,Adelaide,Sydney,15174,22,11,14,80,-3,Adelaide Oval,Sydney,13,5,83,2.479,13,5,3
+4.2096,19/08/2017,Carlton,Hawthorn,15178,22,12,5,77,7,Docklands,Hawthorn,10,10,70,1.308,10,10,-7
+2.8634,19/08/2017,Collingwood,Geelong,15176,22,9,5,59,-11,M.C.G.,Geelong,10,10,70,1.5288,10,10,11
+1.2251,19/08/2017,GWS,West Coast,15177,22,12,9,81,21,Sydney Showground,West Coast,9,6,60,5.3706,9,6,-21
+3.4585,19/08/2017,Gold Coast,Essendon,15179,22,9,3,57,-33,Carrara,Essendon,12,18,90,1.4003,12,18,33
+2.021,19/08/2017,Western Bulldogs,Port Adelaide,15175,22,11,13,79,-17,Eureka Stadium,Port Adelaide,14,12,96,1.9652,14,12,17
+4.6548,20/08/2017,Fremantle,Richmond,15182,22,7,9,51,-104,Subiaco,Richmond,25,5,155,1.273,25,5,104
+1.1296,20/08/2017,Melbourne,Brisbane,15180,22,16,8,104,13,M.C.G.,Brisbane,14,7,91,8.4645,14,7,-13
+1.3687,20/08/2017,St Kilda,North Melbourne,15181,22,18,19,127,49,Docklands,North Melbourne,12,6,78,3.6808,12,6,-49
+1.9622,25/08/2017,Hawthorn,Western Bulldogs,15183,23,15,9,99,9,Docklands,Western Bulldogs,13,12,90,2.0327,13,12,-9
+1.4595,26/08/2017,Brisbane,North Melbourne,15185,23,11,13,79,-51,Gabba,North Melbourne,19,16,130,3.1068,19,16,51
+3.5571,26/08/2017,Collingwood,Melbourne,15184,23,14,15,99,16,M.C.G.,Melbourne,12,11,83,1.3863,12,11,-16
+2.3701,26/08/2017,Geelong,GWS,15187,23,15,13,103,44,Kardinia Park,GWS,8,11,59,1.7177,8,11,-44
+1.0605,26/08/2017,Port Adelaide,Gold Coast,15188,23,20,15,135,115,Adelaide Oval,Gold Coast,3,2,20,16.3613,3,2,-115
+1.0733,26/08/2017,Sydney,Carlton,15186,23,21,12,138,81,S.C.G.,Carlton,8,9,57,14.1396,8,9,-81
+1.1269,27/08/2017,Essendon,Fremantle,15189,23,16,11,107,15,Docklands,Fremantle,14,8,92,8.838,14,8,-15
+1.5671,27/08/2017,Richmond,St Kilda,15190,23,19,8,122,41,M.C.G.,St Kilda,12,9,81,2.7098,12,9,-41
+1.9726,27/08/2017,West Coast,Adelaide,15191,23,15,10,100,29,Subiaco,Adelaide,10,11,71,2.0174,10,11,-29
+2.8187,9/09/2017,Port Adelaide,West Coast,15195,24,12,6,78,2,Adelaide Oval,Port Adelaide,10,16,76,1.5459,10,16,-2
+1.1973,9/09/2017,Sydney,Essendon,15194,24,19,7,121,65,S.C.G.,Essendon,8,8,56,5.9817,8,8,-65
+3.3829,15/09/2017,Geelong,Sydney,15196,25,15,8,98,59,M.C.G.,Sydney,5,9,39,1.4182,5,9,-59
+1.4737,16/09/2017,GWS,West Coast,15197,25,19,11,125,67,Sydney Showground,West Coast,9,4,58,3.1043,9,4,-67
+1.4825,22/09/2017,Adelaide,Geelong,15198,26,21,10,136,61,Adelaide Oval,Geelong,10,15,75,3.0587,10,15,-61
+1.6134,23/09/2017,Richmond,GWS,15199,26,15,13,103,36,M.C.G.,GWS,9,13,67,2.6151,9,13,-36
+2.4829,30/09/2017,Adelaide,Richmond,15200,27,16,12,108,48,M.C.G.,Adelaide,8,12,60,1.6694,8,12,-48
+1.2112,22/03/2018,Richmond,Carlton,15201,1,17,19,121,26,M.C.G.,Carlton,15,5,95,5.6983,15,5,-26
+1.8628,23/03/2018,Essendon,Adelaide,15202,1,14,15,99,12,Docklands,Adelaide,12,15,87,2.1393,12,15,-12
+2.0161,24/03/2018,Gold Coast,North Melbourne,15206,1,7,13,55,16,Cazaly's Stadium,North Melbourne,5,9,39,1.9784,5,9,-16
+1.7781,24/03/2018,Hawthorn,Collingwood,15205,1,15,11,101,34,M.C.G.,Collingwood,9,13,67,2.2857,9,13,-34
+1.2117,24/03/2018,Port Adelaide,Fremantle,15204,1,16,14,110,50,Adelaide Oval,Fremantle,9,6,60,5.4459,9,6,-50
+1.3583,24/03/2018,St Kilda,Brisbane,15203,1,16,11,107,25,Docklands,Brisbane,12,10,82,3.7985,12,10,-25
+1.3672,25/03/2018,GWS,Western Bulldogs,15207,1,20,13,133,82,Manuka Oval,Western Bulldogs,7,9,51,3.6889,7,9,-82
+1.7737,25/03/2018,Melbourne,Geelong,15208,1,13,16,94,-3,M.C.G.,Geelong,14,13,97,2.2755,14,13,3
+3.513,25/03/2018,West Coast,Sydney,15209,1,13,8,86,-29,Perth Stadium,Sydney,18,7,115,1.3925,18,7,29
+1.8478,29/03/2018,Adelaide,Richmond,15210,2,18,10,118,36,Adelaide Oval,Richmond,12,10,82,2.1784,12,10,-36
+3.5769,30/03/2018,North Melbourne,St Kilda,15211,2,13,17,95,52,Docklands,St Kilda,5,13,43,1.3867,5,13,-52
+3.8438,31/03/2018,Brisbane,Melbourne,15214,2,10,14,74,-26,Gabba,Melbourne,14,16,100,1.3445,14,16,26
+1.5992,31/03/2018,Carlton,Gold Coast,15212,2,9,13,67,-34,Docklands,Gold Coast,15,11,101,2.662,15,11,34
+3.0799,31/03/2018,Collingwood,GWS,15213,2,12,7,79,-16,M.C.G.,GWS,15,5,95,1.4819,15,5,16
+2.6997,31/03/2018,Fremantle,Essendon,15215,2,16,10,106,16,Perth Stadium,Essendon,14,6,90,1.5939,14,6,-16
+2.568,8/04/2018,Richmond,Hawthorn,15364,20,16,11,107,4,M.C.G.,Essendon,16,7,103,1.3538,16,7,-4
+1.2048,13/04/2018,Adelaide,Collingwood,15228,4,9,4,58,-48,Adelaide Oval,Collingwood,16,10,106,5.9197,16,10,48
+1.2136,14/04/2018,GWS,Fremantle,15229,4,11,16,82,31,Manuka Oval,Fremantle,7,9,51,5.7339,7,9,-31
+1.5799,14/04/2018,North Melbourne,Carlton,15232,4,18,8,116,86,Bellerive Oval,Carlton,4,6,30,2.7228,4,6,-86
+1.1251,14/04/2018,Richmond,Brisbane,15230,4,16,14,110,93,M.C.G.,Brisbane,2,5,17,8.9604,2,5,-93
+1.2044,14/04/2018,West Coast,Gold Coast,15233,4,21,13,139,80,Perth Stadium,Gold Coast,9,5,59,5.8816,9,5,-80
+4.0947,14/04/2018,Western Bulldogs,Sydney,15231,4,11,13,79,-7,Docklands,Sydney,13,8,86,1.3152,13,8,7
+2.318,15/04/2018,Essendon,Port Adelaide,15234,4,16,10,106,22,Docklands,Port Adelaide,12,12,84,1.7486,12,12,-22
+1.3347,15/04/2018,Geelong,St Kilda,15236,4,15,13,103,47,Kardinia Park,St Kilda,7,14,56,3.9515,7,14,-47
+2.2855,15/04/2018,Hawthorn,Melbourne,15235,4,18,7,115,67,M.C.G.,Melbourne,6,12,48,1.7772,6,12,-67
+1.264,20/04/2018,Sydney,Adelaide,15237,5,10,15,75,-10,S.C.G.,Adelaide,12,13,85,4.6929,12,13,10
+5.7682,21/04/2018,Carlton,West Coast,15239,5,10,9,69,-10,M.C.G.,West Coast,10,19,79,1.2076,10,19,10
+1.5884,21/04/2018,Fremantle,Western Bulldogs,15241,5,16,12,108,54,Perth Stadium,Western Bulldogs,8,6,54,2.6827,8,6,-54
+1.5053,21/04/2018,Port Adelaide,Geelong,15240,5,7,8,50,-34,Adelaide Oval,Geelong,12,12,84,2.9515,12,12,34
+3.5609,21/04/2018,St Kilda,GWS,15238,5,10,13,73,0,Docklands,GWS,9,19,73,1.3918,9,19,0
+1.7464,22/04/2018,Brisbane,Gold Coast,15243,5,10,11,71,-5,Gabba,Gold Coast,11,10,76,2.3277,11,10,5
+2.617,22/04/2018,North Melbourne,Hawthorn,15242,5,14,14,98,28,Docklands,Hawthorn,11,4,70,1.6132,11,4,-28
+2.7929,24/04/2018,Melbourne,Richmond,15244,5,8,8,56,-46,M.C.G.,Richmond,15,12,102,1.5556,15,12,46
+1.8372,25/04/2018,Collingwood,Essendon,15245,5,14,17,101,49,M.C.G.,Essendon,7,10,52,2.1754,7,10,-49
+1.4867,27/04/2018,Western Bulldogs,Carlton,15246,6,11,14,80,21,Docklands,Carlton,8,11,59,3.0356,8,11,-21
+1.1068,28/04/2018,Adelaide,Gold Coast,15251,6,16,14,110,48,Adelaide Oval,Gold Coast,9,8,62,9.9857,9,8,-48
+1.1271,28/04/2018,GWS,Brisbane,15249,6,10,17,77,34,Sydney Showground,Brisbane,5,13,43,8.6056,5,13,-34
+1.5019,28/04/2018,Geelong,Sydney,15247,6,10,9,69,-17,Kardinia Park,Sydney,12,14,86,2.9833,12,14,17
+1.5593,28/04/2018,Hawthorn,St Kilda,15250,6,13,11,89,35,York Park,St Kilda,7,12,54,2.7734,7,12,-35
+2.2644,28/04/2018,North Melbourne,Port Adelaide,15248,6,10,9,69,-33,Docklands,Port Adelaide,15,12,102,1.7835,15,12,33
+3.0176,29/04/2018,Collingwood,Richmond,15253,6,10,10,70,-43,M.C.G.,Richmond,16,17,113,1.4902,16,17,43
+2.3001,29/04/2018,Essendon,Melbourne,15252,6,10,12,72,-36,Docklands,Melbourne,16,12,108,1.7621,16,12,36
+2.4926,29/04/2018,Fremantle,West Coast,15254,6,12,9,81,-8,Perth Stadium,West Coast,13,11,89,1.6531,13,11,8
+1.0505,5/05/2018,Adelaide,Carlton,15260,7,19,11,125,55,Adelaide Oval,Carlton,10,10,70,19.7456,10,10,-55
+2.843,5/05/2018,Essendon,Hawthorn,15257,7,10,7,67,-23,M.C.G.,Hawthorn,13,12,90,1.5393,13,12,23
+1.2777,5/05/2018,Sydney,North Melbourne,15259,7,9,12,66,-2,S.C.G.,North Melbourne,9,14,68,4.569,9,14,2
+1.8263,5/05/2018,West Coast,Port Adelaide,15258,7,16,6,102,42,Perth Stadium,Port Adelaide,9,6,60,2.1933,9,6,-42
+1.2741,5/05/2018,Western Bulldogs,Gold Coast,15256,7,11,15,81,9,Eureka Stadium,Gold Coast,10,12,72,4.5799,10,12,-9
+2.4127,13/05/2018,Collingwood,Geelong,15272,8,5,15,45,-21,M.C.G.,Geelong,9,12,66,1.704,9,12,21
+4.0493,13/05/2018,North Melbourne,Richmond,15271,8,11,6,72,-10,Docklands,Richmond,12,10,82,1.3208,12,10,10
+1.3268,18/05/2018,Adelaide,Western Bulldogs,15273,9,9,9,63,37,Adelaide Oval,Western Bulldogs,2,14,26,4.0422,2,14,-37
+5.653,19/05/2018,Essendon,Geelong,15276,9,12,12,84,34,M.C.G.,Geelong,7,8,50,1.2104,7,8,-34
+9.5756,19/05/2018,Gold Coast,Port Adelaide,15274,9,6,6,42,-40,Jiangwan Stadium,Port Adelaide,11,16,82,1.111,11,16,40
+1.5049,19/05/2018,North Melbourne,GWS,15275,9,17,10,112,43,Bellerive Oval,GWS,9,15,69,2.9752,9,15,-43
+4.1898,19/05/2018,St Kilda,Collingwood,15277,9,10,12,72,-28,Docklands,Collingwood,15,10,100,1.3112,15,10,28
+1.1794,19/05/2018,Sydney,Fremantle,15278,9,17,9,111,59,S.C.G.,Fremantle,7,10,52,6.4744,7,10,-59
+3.2891,20/05/2018,Brisbane,Hawthorn,15280,9,20,9,129,56,Gabba,Hawthorn,11,7,73,1.4318,11,7,-56
+7.7213,20/05/2018,Carlton,Melbourne,15279,9,7,8,50,-109,M.C.G.,Melbourne,25,9,159,1.1451,25,9,109
+1.9755,20/05/2018,West Coast,Richmond,15281,9,20,10,130,47,Perth Stadium,Richmond,12,11,83,2.0154,12,11,-47
+1.4143,25/05/2018,Collingwood,Western Bulldogs,15282,10,13,12,90,35,Docklands,Western Bulldogs,8,7,55,3.3768,8,7,-35
+3.3267,26/05/2018,Brisbane,Sydney,15284,10,6,13,49,-18,Gabba,Sydney,10,7,67,1.425,10,7,18
+1.4364,26/05/2018,GWS,Essendon,15286,10,8,12,60,-35,Sydney Showground,Essendon,14,11,95,3.2652,14,11,35
+1.072,26/05/2018,Geelong,Carlton,15285,10,11,7,73,28,Kardinia Park,Carlton,5,15,45,14.6003,5,15,-28
+1.1098,26/05/2018,Richmond,St Kilda,15283,10,15,15,105,28,M.C.G.,St Kilda,12,5,77,9.8323,12,5,-28
+1.9522,27/05/2018,Fremantle,North Melbourne,15289,10,8,10,58,-28,Perth Stadium,North Melbourne,12,14,86,2.0434,12,14,28
+2.2123,27/05/2018,Hawthorn,West Coast,15287,10,9,6,60,-15,Docklands,West Coast,11,9,75,1.8133,11,9,15
+1.7117,27/05/2018,Melbourne,Adelaide,15288,10,23,8,146,91,Traeger Park,Adelaide,8,7,55,2.3996,8,7,-91
+1.1289,14/06/2018,Port Adelaide,Western Bulldogs,15306,13,20,12,132,57,Adelaide Oval,Western Bulldogs,11,9,75,8.7212,11,9,-57
+1.5515,15/06/2018,Sydney,West Coast,15307,13,10,12,72,15,S.C.G.,West Coast,7,15,57,2.8096,7,15,-15
+2.1982,16/06/2018,Carlton,Fremantle,15308,13,6,10,46,-57,Docklands,Fremantle,15,13,103,1.8188,15,13,57
+2.6419,16/06/2018,Gold Coast,St Kilda,15309,13,11,12,78,-2,Carrara,St Kilda,11,14,80,1.5945,11,14,2
+1.474,16/06/2018,Hawthorn,Adelaide,15310,13,12,16,88,56,M.C.G.,Adelaide,4,8,32,3.1206,4,8,-56
+2.6174,17/06/2018,Geelong,Richmond,15311,13,9,11,65,-18,M.C.G.,Richmond,12,11,83,1.6147,12,11,18
+1.3694,21/06/2018,West Coast,Essendon,15312,14,6,16,52,-28,Perth Stadium,Essendon,12,8,80,3.6843,12,8,28
+1.7391,22/06/2018,Port Adelaide,Melbourne,15313,14,11,9,75,10,Adelaide Oval,Melbourne,9,11,65,2.3426,9,11,-10
+3.7115,23/06/2018,Brisbane,GWS,15315,14,12,10,82,-27,Gabba,GWS,16,13,109,1.3655,16,13,27
+1.0408,23/06/2018,Hawthorn,Gold Coast,15314,14,13,18,96,53,York Park,Gold Coast,5,13,43,23.6311,5,13,-53
+4.1312,23/06/2018,Western Bulldogs,North Melbourne,15316,14,11,9,75,-2,Docklands,North Melbourne,12,5,77,1.3153,12,5,2
+1.0728,24/06/2018,Collingwood,Carlton,15317,14,11,13,79,20,M.C.G.,Carlton,9,5,59,14.7837,9,5,-20
+1.5853,28/06/2018,Richmond,Sydney,15318,15,14,9,93,26,Docklands,Sydney,11,1,67,2.7038,11,1,-26
+6.2067,29/06/2018,Western Bulldogs,Geelong,15319,15,16,7,103,2,Docklands,Geelong,15,11,101,1.1889,15,11,-2
+1.4989,30/06/2018,Adelaide,West Coast,15321,15,12,16,88,10,Adelaide Oval,West Coast,12,6,78,2.9756,12,6,-10
+7.1981,30/06/2018,Carlton,Port Adelaide,15320,15,10,9,69,-21,M.C.G.,Port Adelaide,13,12,90,1.1576,13,12,21
+1.609,30/06/2018,GWS,Hawthorn,15323,15,13,17,95,11,Sydney Showground,Hawthorn,13,6,84,2.6462,13,6,-11
+10.5939,30/06/2018,Gold Coast,Collingwood,15322,15,8,12,60,-39,Carrara,Collingwood,14,15,99,1.0956,14,15,39
+1.3504,7/07/2018,Brisbane,Carlton,15329,16,18,12,120,65,Gabba,Carlton,7,13,55,3.7714,7,13,-65
+1.0961,7/07/2018,Melbourne,Fremantle,15332,16,13,24,102,54,Marrara Oval,Fremantle,7,6,48,11.0674,7,6,-54
+1.1638,7/07/2018,Port Adelaide,St Kilda,15330,16,12,14,86,36,Adelaide Oval,St Kilda,7,8,50,7.0031,7,8,-36
+3.0025,7/07/2018,Western Bulldogs,Hawthorn,15331,16,9,5,59,-63,Docklands,Hawthorn,19,8,122,1.4961,19,8,63
+1.3548,13/07/2018,St Kilda,Carlton,15337,17,16,20,116,64,Docklands,Carlton,7,10,52,3.8177,7,10,-64
+2.7257,14/07/2018,GWS,Richmond,15341,17,11,13,79,2,Sydney Showground,Richmond,10,17,77,1.5765,10,17,-2
+4.4485,14/07/2018,Gold Coast,Essendon,15340,17,6,15,51,-44,Carrara,Essendon,13,17,95,1.2871,13,17,44
+1.2281,14/07/2018,Hawthorn,Brisbane,15338,17,9,11,65,-33,York Park,Brisbane,15,8,98,5.4105,15,8,33
+1.1571,14/07/2018,Melbourne,Western Bulldogs,15339,17,18,11,119,50,M.C.G.,Western Bulldogs,10,9,69,7.3133,10,9,-50
+1.56,15/07/2018,Collingwood,West Coast,15342,17,9,13,67,-35,M.C.G.,West Coast,15,12,102,2.7815,15,12,35
+5.911,15/07/2018,Fremantle,Port Adelaide,15344,17,8,11,59,9,Perth Stadium,Port Adelaide,7,8,50,1.2047,7,8,-9
+1.9263,15/07/2018,North Melbourne,Sydney,15343,17,15,8,98,-6,Docklands,Sydney,16,8,104,2.0647,16,8,6
+6.7736,20/07/2018,St Kilda,Richmond,15345,18,8,9,57,-54,Docklands,Richmond,16,15,111,1.1699,16,15,54
+2.4614,21/07/2018,Brisbane,Adelaide,15349,18,13,10,88,-5,Gabba,Adelaide,13,15,93,1.673,13,15,5
+1.5343,21/07/2018,Collingwood,North Melbourne,15346,18,20,10,130,66,M.C.G.,North Melbourne,9,10,64,2.8731,9,10,-66
+1.1276,21/07/2018,Essendon,Fremantle,15348,18,13,21,99,29,Docklands,Fremantle,11,4,70,8.8527,11,4,-29
+1.5624,21/07/2018,Geelong,Melbourne,15350,18,16,4,100,2,Kardinia Park,Melbourne,14,14,98,2.7718,14,14,-2
+1.0342,21/07/2018,Sydney,Gold Coast,15347,18,8,16,64,-24,S.C.G.,Gold Coast,12,16,88,27.852,12,16,24
+6.2375,22/07/2018,Carlton,Hawthorn,15351,18,7,10,52,-72,Docklands,Hawthorn,18,16,124,1.1897,18,16,72
+1.648,22/07/2018,Port Adelaide,GWS,15353,18,8,10,58,-22,Adelaide Oval,GWS,11,14,80,2.5452,11,14,22
+1.1331,22/07/2018,West Coast,Western Bulldogs,15352,18,14,16,100,54,Perth Stadium,Western Bulldogs,6,10,46,8.2569,6,10,-54
+1.7634,27/07/2018,Essendon,Sydney,15354,19,15,19,109,43,Docklands,Sydney,10,6,66,2.3028,10,6,-43
+1.792,28/07/2018,Adelaide,Melbourne,15359,19,10,17,77,-13,Adelaide Oval,Melbourne,13,12,90,2.2544,13,12,13
+1.1672,28/07/2018,GWS,St Kilda,15357,19,13,8,86,25,Sydney Showground,St Kilda,8,13,61,6.8268,8,13,-25
+1.1981,28/07/2018,Geelong,Brisbane,15356,19,18,12,120,42,Kardinia Park,Brisbane,11,12,78,6.1762,11,12,-42
+1.3933,28/07/2018,Gold Coast,Carlton,15358,19,5,14,44,-35,Carrara,Carlton,12,7,79,3.5296,12,7,35
+1.3794,28/07/2018,Richmond,Collingwood,15355,19,16,9,105,28,M.C.G.,Collingwood,12,5,77,3.5474,12,5,-28
+3.1165,29/07/2018,Fremantle,Hawthorn,15362,19,7,11,53,-59,Perth Stadium,Hawthorn,17,10,112,1.4664,17,10,59
+1.7354,29/07/2018,North Melbourne,West Coast,15360,19,12,9,81,40,Bellerive Oval,West Coast,6,5,41,2.3493,6,5,-40
+4.0144,29/07/2018,Western Bulldogs,Port Adelaide,15361,19,5,4,34,-44,Eureka Stadium,Port Adelaide,11,12,78,1.3307,11,12,44
+2.6368,4/08/2018,St Kilda,Western Bulldogs,15226,3,14,20,104,21,Docklands,Essendon,12,11,83,1.8403,12,11,-21
+1.528,17/08/2018,Richmond,Essendon,15381,22,12,9,81,8,M.C.G.,Essendon,11,7,73,2.8772,11,7,-8
+1.5351,18/08/2018,Collingwood,Port Adelaide,15382,22,17,13,115,51,M.C.G.,Port Adelaide,10,4,64,2.8381,10,4,-51
+1.8478,18/08/2018,GWS,Sydney,15384,22,8,12,60,-20,Sydney Showground,Sydney,11,14,80,2.1672,11,14,20
+1.0605,18/08/2018,Geelong,Fremantle,15383,22,24,14,158,133,Kardinia Park,Fremantle,3,7,25,17.5108,3,7,-133
+4.6538,18/08/2018,Gold Coast,Brisbane,15386,22,11,8,74,-4,Carrara,Brisbane,10,18,78,1.2741,10,18,4
+6.3542,18/08/2018,St Kilda,Hawthorn,15385,22,11,10,76,-4,Docklands,Hawthorn,12,8,80,1.1804,12,8,4
+1.3882,19/08/2018,Adelaide,North Melbourne,15389,22,12,14,86,9,Adelaide Oval,North Melbourne,11,11,77,3.5448,11,11,-9
+4.9601,19/08/2018,Carlton,Western Bulldogs,15387,22,7,7,49,-17,Docklands,Western Bulldogs,10,6,66,1.2528,10,6,17
+1.8275,19/08/2018,West Coast,Melbourne,15388,22,14,7,91,-17,Perth Stadium,Melbourne,16,12,108,2.2092,16,12,17
+1.653,24/08/2018,Port Adelaide,Essendon,15390,23,13,11,89,-22,Adelaide Oval,Essendon,17,9,111,2.5066,17,9,22
+5.3274,25/08/2018,Carlton,Adelaide,15394,23,8,13,61,-104,Docklands,Adelaide,26,9,165,1.2242,26,9,104
+6.5927,25/08/2018,Fremantle,Collingwood,15393,23,9,13,67,-9,Perth Stadium,Collingwood,11,10,76,1.1724,11,10,9
+1.03,25/08/2018,Geelong,Gold Coast,15391,23,22,10,142,102,Kardinia Park,Gold Coast,5,10,40,37.2188,5,10,-102
+1.1171,25/08/2018,Richmond,Western Bulldogs,15392,23,15,8,98,3,M.C.G.,Western Bulldogs,14,11,95,9.2994,14,11,-3
+2.2718,25/08/2018,Sydney,Hawthorn,15395,23,10,14,74,-9,S.C.G.,Hawthorn,12,11,83,1.7796,12,11,9
+2.3068,26/08/2018,Brisbane,West Coast,15396,23,11,6,72,-26,Gabba,West Coast,14,14,98,1.7548,14,14,26
+1.5116,26/08/2018,Melbourne,GWS,15397,23,15,12,102,45,M.C.G.,GWS,8,9,57,2.9379,8,9,-45
+3.5178,26/08/2018,St Kilda,North Melbourne,15398,23,14,10,94,-23,Docklands,North Melbourne,17,15,117,1.3936,17,15,23
+1.4613,14/09/2018,Hawthorn,Melbourne,15403,25,16,8,104,33,M.C.G.,Hawthorn,10,11,71,3.1164,10,11,-33
+1.6434,15/09/2018,Collingwood,GWS,15404,25,9,15,69,10,M.C.G.,GWS,9,5,59,2.539,9,5,-10
+3.2443,21/09/2018,Richmond,Collingwood,15405,26,15,7,97,39,M.C.G.,Richmond,8,10,58,1.4405,8,10,-39
+1.839,22/09/2018,West Coast,Melbourne,15406,26,18,13,121,66,Perth Stadium,Melbourne,7,13,55,2.184,7,13,-66
